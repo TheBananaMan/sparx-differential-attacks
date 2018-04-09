@@ -1,0 +1,28 @@
+$ python3 cryptosmt.py --inputfile examples/speckey/speckey3rounds_0000_xxxx.yaml 
+Number of rounds: 3
+Starting search for characteristic with minimal weight
+speckey - Rounds: 3 Wordsize: 16
+---
+Weight: 1 Time: 0.0s
+Weight: 2 Time: 0.01s
+Weight: 3 Time: 0.07s
+Weight: 4 Time: 0.13s
+Weight: 5 Time: 0.19s
+Weight: 6 Time: 0.24s
+Weight: 7 Time: 0.3s
+Weight: 8 Time: 0.37s
+Weight: 9 Time: 0.43s
+Weight: 10 Time: 0.49s
+Weight: 11 Time: 0.55s
+Weight: 12 Time: 0.62s
+---
+Characteristic for speckey - Rounds 3 - Wordsize 16 - Weight 12 - Time 0.69s
+Rounds	x       y       whex    
+-------------------------------
+0	0x8100  0x8102  -2  
+1	0x8000  0x840A  -4  
+2	0x850A  0x9520  -6 
+3	0x802A  0xD4A8  none    
+
+Weight: 12
+

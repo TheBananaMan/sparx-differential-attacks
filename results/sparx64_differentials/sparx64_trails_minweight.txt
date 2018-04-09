@@ -1,0 +1,238 @@
+WARNING: Could not find BOOLECTOR binary, "--boolector" option not available.
+Number of rounds: 1
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 1 Wordsize: 16
+---
+Weight: 0 Time: 0.0s
+---
+Characteristic for sparxround - Rounds 1 - Wordsize 16 - Weight 0 - Time 0.02s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0040  0x8000  0x0000  0x0000  none    none    -1      -0      
+1	0x0000  0x0002  0x0000  0x0000  none    none    none    none    
+
+Weight: 0
+Rounds:
+Number of rounds: 2
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 2 Wordsize: 16
+---
+Weight: 0 Time: 0.0s
+Weight: 1 Time: 0.03s
+---
+Characteristic for sparxround - Rounds 2 - Wordsize 16 - Weight 1 - Time 0.1s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0010  0x2000  0x0000  0x0000  none    none    -1      -0      
+1	0x0000  0x8000  0x0000  0x0000  none    none    -1      -0      
+2	0x8000  0x8002  0x0000  0x0000  none    none    none    none    
+
+Weight: 1
+Rounds:
+Number of rounds: 3
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 3 Wordsize: 16
+---
+Weight: 1 Time: 0.0s
+Weight: 2 Time: 0.12s
+Weight: 3 Time: 0.39s
+---
+Characteristic for sparxround - Rounds 3 - Wordsize 16 - Weight 3 - Time 0.46s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x2800  0x0010  0x0000  0x0000  none    none    -2      -0      
+1	0x0040  0x0000  0x0000  0x0000  none    none    -1      -0      
+2	0x8000  0x8000  0x0000  0x0000  0x8300  0x8302  -2      -0      
+3	0x8300  0x8302  0x8100  0x8102  none    none    none    none    
+
+Weight: 3
+Rounds:
+Number of rounds: 4
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 4 Wordsize: 16
+---
+Weight: 3 Time: 0.0s
+Weight: 4 Time: 0.51s
+Weight: 5 Time: 1.49s
+---
+Characteristic for sparxround - Rounds 4 - Wordsize 16 - Weight 5 - Time 2.4s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x2800  0x0010  none    none    -0      -2      
+1	0x0000  0x0000  0x0040  0x0000  none    none    -0      -1      
+2	0x0000  0x0000  0x8000  0x8000  0x0000  0x0000  -0      -2      
+3	0x8100  0x8102  0x0000  0x0000  none    none    -3      -0      
+4	0x8000  0x840A  0x0000  0x0000  none    none    none    none    
+
+Weight: 5
+Rounds:
+Number of rounds: 5
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 5 Wordsize: 16
+---
+Weight: 5 Time: 0.0s
+Weight: 6 Time: 2.15s
+Weight: 7 Time: 6.14s
+Weight: 8 Time: 11.01s
+Weight: 9 Time: 18.27s
+---
+Characteristic for sparxround - Rounds 5 - Wordsize 16 - Weight 9 - Time 25.07s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x0211  0x0A04  none    none    -0      -4      
+1	0x0000  0x0000  0x2800  0x0010  none    none    -0      -2      
+2	0x0000  0x0000  0x0040  0x0000  0x0000  0x0000  -0      -1      
+3	0x8000  0x8000  0x0000  0x0000  none    none    -2      -0      
+4	0x8100  0x8102  0x0000  0x0000  none    none    -3      -0      
+5	0x8000  0x840A  0x0000  0x0000  none    none    none    none    
+
+Weight: 9
+Rounds:
+Number of rounds: 6
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 6 Wordsize: 16
+---
+Weight: 9 Time: 0.0s
+Weight: 10 Time: 16.17s
+Weight: 11 Time: 83.4s
+Weight: 12 Time: 114.45s
+Weight: 13 Time: 161.02s
+---
+Characteristic for sparxround - Rounds 6 - Wordsize 16 - Weight 13 - Time 228.92s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x0211  0x0A04  none    none    -0      -4      
+1	0x0000  0x0000  0x2800  0x0010  none    none    -0      -2      
+2	0x0000  0x0000  0x0040  0x0000  0x0000  0x0000  -0      -1      
+3	0x8000  0x8000  0x0000  0x0000  none    none    -2      -0      
+4	0x8100  0x8102  0x0000  0x0000  none    none    -3      -0      
+5	0x8000  0x840A  0x0000  0x0000  0xAF1A  0xBF30  -5      -0      
+6	0xAF1A  0xBF30  0x850A  0x9520  none    none    none    none    
+
+Weight: 13
+Rounds:
+Number of rounds: 7
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 7 Wordsize: 16
+---
+Weight: 13 Time: 0.0s
+Weight: 14 Time: 89.89s
+Weight: 15 Time: 347.94s
+Weight: 16 Time: 824.94s
+Weight: 17 Time: 1243.17s
+Weight: 18 Time: 2264.59s
+Weight: 19 Time: 3606.65s
+Weight: 20 Time: 9122.13s
+Weight: 21 Time: 12541.9s
+Weight: 22 Time: 24612.72s
+Weight: 23 Time: 51118.44s
+Weight: 24 Time: 108627.56s
+---
+Characteristic for sparxround - Rounds 7 - Wordsize 16 - Weight 24 - Time 172107.5s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x7448  0xB0F8  none    none    -0      -6      
+1	0x0000  0x0000  0x01E0  0xC202  none    none    -0      -6      
+2	0x0000  0x0000  0x020F  0x0A04  0x0000  0x0000  -0      -5      
+3	0x2800  0x0010  0x0000  0x0000  none    none    -2      -0      
+4	0x0040  0x0000  0x0000  0x0000  none    none    -1      -0      
+5	0x8000  0x8000  0x0000  0x0000  0x8300  0x8302  -2      -0      
+6	0x8300  0x8302  0x8100  0x8102  none    none    -5      -3      
+7	0x8004  0x8C0E  0x8000  0x840A  none    none    none    none    
+
+Weight: 24
+Rounds:
+Number of rounds: 8
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 8 Wordsize: 16
+---
+Weight: 24 Time: 0.0s
+Weight: 25 Time: 34384.56s
+Weight: 26 Time: 132748.38s
+Weight: 27 Time: 414262.69s
+Weight: 28 Time: 672075.46s
+Weight: 29 Time: 1218057.16s
+---
+Characteristic for sparxround - Rounds 8 - Wordsize 16 - Weight 29 - Time 1317456.47s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x0050  0x8402  none    none    -0      -4      
+1	0x0000  0x0000  0x2402  0x3408  none    none    -0      -7      
+2	0x0000  0x0000  0x50C0  0x80E0  0x0000  0x0000  -0      -5      
+3	0x0181  0x0203  0x0000  0x0000  none    none    -5      -0      
+4	0x000C  0x0800  0x0000  0x0000  none    none    -3      -0      
+5	0x2000  0x0000  0x0000  0x0000  0x0040  0x0040  -1      -0      
+6	0x0040  0x0040  0x0040  0x0040  none    none    -2      -2      
+7	0x8040  0x8140  0x8040  0x8140  none    none    -3      -3      
+8	0x0040  0x0542  0x0040  0x0542  none    none    none    none    
+
+Weight: 29
+Rounds:
+Number of rounds: 9
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 9 Wordsize: 16
+---
+Weight: 29 Time: 0.0s
+Weight: 30 Time: xs
+Weight: 31 Time: xs
+Weight: 32 Time: xs
+Weight: 33 Time: xs
+Weight: 34 Time: xs
+Characteristic for sparxround - Rounds 9 - Wordsize 16- Weight 35
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x2800  0x0010  0x2800  0x0010  none    none    -2  	-2  
+1	0x0040  0x0000  0x0040  0x0000  none    none    -0  	-0  
+2	0x8000  0x8000  0x8000  0x8000  0x8100  0x8102  -2  	-1  
+3	0x0000  0x0000  0x8300  0x8302  none    none    -0  	-5  
+4	0x0000  0x0000  0x8008  0x8C02  none    none    -0  	-5  
+5	0x0000  0x0000  0x8502  0xB508  0x0000  0x0000  -0  	-7  
+6	0xD002  0x0420  0x0000  0x0000  none    none    -4  	-0  
+7	0x0080  0x1000  0x0000  0x0000  none    none    -2  	-0  
+8	0x1001  0x5001  0x0000  0x0000  0x5761  0x1764  -5  	-0  
+9   0x5761  0x1764  0x5221  0x1224  none    none    none    none  
+
+Weight: 35
+Rounds:
+Number of rounds: 10
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 10 Wordsize: 16
+---
+Weight: 35 Time: 0.0s
+Weight: 36 Time: 26006.79s
+Weight: 37 Time: 76503.94s
+Weight: 38 Time: 177468.77s
+Weight: 39 Time: 351201.74s
+Weight: 40 Time: 598958.94s
+Weight: 41 Time: 1376058.73s
+Weight: 42 Time: 2683928.73s
+---
+Characteristic for sparxround - Rounds 10 - Wordsize 16 - Weight 42 - Time 2812023.77s
+Rounds  X0      X1      Y0      Y1      X0L     X1L     wl      wr
+-----------------------------------------------------------------------
+0    0x2800  0x0010  0x2800  0x0010  none    none    -2      -2
+1    0x0040  0x0000  0x0040  0x0000  none    none    -0      -0
+2    0x8000  0x8000  0x8000  0x8000  0x8100  0x8102  -2      -1
+3    0x0000  0x0000  0x8300  0x8302  none    none    -0      -7
+4    0x0000  0x0000  0x8C08  0x8002  none    none    -0      -6
+5    0x0000  0x0000  0x912A  0x9120  0x0000  0x0000  -0      -7
+6    0x4602  0x0280  0x0000  0x0000  none    none    -5      -0
+7    0x020C  0x080C  0x0000  0x0000  none    none    -6      -0
+8    0x0030  0x2000  0x0000  0x0000  0x0080  0x8080  -2      -0
+9    0x0080  0x8080  0x0000  0x8000  none    none    -2      -0
+10   0x8081  0x8283  0x8000  0x8002  none    none    none    none
+
+Weight: 42
+Rounds:
+Number of rounds: 11
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 11 Wordsize: 16
+---
+Weight: 42 Time: 0.0s
+Weight: 43 Time: 854265.12s
+Weight: 44 Time: 2450577.15s
+Weight: 45 Time: 4123479.79s
+
+
+
+

@@ -1,0 +1,37 @@
+$ python3 cryptosmt.py --inputfile examples/sparxround/sparx64_6rounds_x0_0x/sparx64_6rounds_x0_0x_min.yaml 
+Number of rounds: 6
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 6 Wordsize: 16
+---
+Weight: 13 Time: 0.0s
+Weight: 14 Time: 8.61s
+Weight: 15 Time: 27.82s
+Weight: 16 Time: 43.98s
+Weight: 17 Time: 57.15s
+Weight: 18 Time: 67.93s
+Weight: 19 Time: 79.39s
+Weight: 20 Time: 97.56s
+Weight: 21 Time: 139.64s
+Weight: 22 Time: 199.09s
+Weight: 23 Time: 240.36s
+Weight: 24 Time: 358.2s
+Weight: 25 Time: 410.93s
+Weight: 26 Time: 543.95s
+Weight: 27 Time: 755.7s
+Weight: 28 Time: 993.71s
+Weight: 29 Time: 1286.79s
+Weight: 30 Time: 1948.98s
+---
+Characteristic for sparxround - Rounds 6 - Wordsize 16 - Weight 30 - Time 2336.94s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0211  0x0A04  0x0000  0x0000  none    none    -4      -0  
+1	0x2800  0x0010  0x0000  0x0000  none    none    -2      -0  
+2	0x0040  0x0000  0x0000  0x0000  0x8000  0x8000  -0      -0  
+3	0x8000  0x8000  0x8000  0x8000  none    none    -1      -1  
+4	0x8100  0x8102  0x8100  0x8102  none    none    -3      -3  
+5	0x8004  0x840E  0x8004  0x840E  0x8D1A  0x9D20  -9	    -7  
+6	0x0000  0x0000  0xB70A  0xA730  none    none    none    none    
+
+Weight: 30
+

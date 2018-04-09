@@ -1,0 +1,31 @@
+WARNING: Could not find BOOLECTOR binary, "--boolector" option not available.
+Number of rounds: 6
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 6 Wordsize: 16
+---
+Weight: 13 Time: 0.0s
+Weight: 14 Time: 34.18s
+Weight: 15 Time: 104.38s
+Weight: 16 Time: 134.0s
+Weight: 17 Time: 421.1s
+Weight: 18 Time: 534.82s
+Weight: 19 Time: 825.83s
+---
+Characteristic for sparxround - Rounds 6 - Wordsize 16 - Weight 19 - Time 846.31s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x2800  0x0010  0x2800  0x0010  none    none    -2      -2      
+1	0x0040  0x0000  0x0040  0x0000  none    none    -1      -1      
+2	0x8000  0x8000  0x8000  0x8000  0x8300  0x8302  -2      -3      
+3	0x0000  0x0000  0x8100  0x8102  none    none    -0      -3      
+4	0x0000  0x0000  0x8000  0x840A  none    none    -0      -5      
+5	0x0000  0x0000  0x850A  0x9520  0x0000  0x0000  -0      -7      
+6	0x802A  0xD4A8  0x0000  0x0000  none    none    none    none    
+
+Weight: 19
+Rounds:
+Number of rounds: 7
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 7 Wordsize: 16
+---
+Weight: 19 Time: 0.0s

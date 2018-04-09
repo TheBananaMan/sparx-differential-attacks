@@ -1,0 +1,222 @@
+$ python3 cryptosmt.py --inputfile examples/sparxround/sparx64_6round_xx_x0/sparx64_6rounds_weight20_01.yaml 
+Finding all trails of weight 20
+	Solutions: 1
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 2.06s
+Finding all trails of weight 21
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 2.48s
+Finding all trails of weight 22
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 2.96s
+Finding all trails of weight 23
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 4.5s
+Finding all trails of weight 24
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 5.52s
+Finding all trails of weight 25
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 11.35s
+Finding all trails of weight 26
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 11.9s
+Finding all trails of weight 27
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 12.8s
+Finding all trails of weight 28
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 13.19s
+Finding all trails of weight 29
+	Solutions: 0
+	Trails found: 1
+	Current Probability: -20.0
+	Time: 13.47s
+Finding all trails of weight 30
+	Solutions: 1
+	Trails found: 2
+	Current Probability: -19.99859180560719
+	Time: 14.13s
+Finding all trails of weight 31
+	Solutions: 0
+	Trails found: 2
+	Current Probability: -19.99859180560719
+	Time: 16.3s
+Finding all trails of weight 32
+	Solutions: 0
+	Trails found: 2
+	Current Probability: -19.99859180560719
+	Time: 17.75s
+Finding all trails of weight 33
+	Solutions: 0
+	Trails found: 2
+	Current Probability: -19.99859180560719
+	Time: 18.49s
+Finding all trails of weight 34
+	Solutions: 1
+	Trails found: 3
+	Current Probability: -19.998503839079262
+	Time: 22.09s
+Finding all trails of weight 35
+	Solutions: 0
+	Trails found: 3
+	Current Probability: -19.998503839079262
+	Time: 22.86s
+Finding all trails of weight 36
+	Solutions: 0
+	Trails found: 3
+	Current Probability: -19.998503839079262
+	Time: 23.54s
+Finding all trails of weight 37
+	Solutions: 0
+	Trails found: 3
+	Current Probability: -19.998503839079262
+	Time: 24.5s
+Finding all trails of weight 38
+	Solutions: 1
+	Trails found: 4
+	Current Probability: -19.998498341349354
+	Time: 25.69s
+Finding all trails of weight 39
+	Solutions: 0
+	Trails found: 4
+	Current Probability: -19.998498341349354
+	Time: 27.67s
+Finding all trails of weight 40
+	Solutions: 1
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 29.76s
+Finding all trails of weight 41
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 31.18s
+Finding all trails of weight 42
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 32.17s
+Finding all trails of weight 43
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 35.07s
+Finding all trails of weight 44
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 38.1s
+Finding all trails of weight 45
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 41.96s
+Finding all trails of weight 46
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 46.16s
+Finding all trails of weight 47
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 51.45s
+Finding all trails of weight 48
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 55.21s
+Finding all trails of weight 49
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 65.34s
+Finding all trails of weight 50
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 75.47s
+Finding all trails of weight 51
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 88.25s
+Finding all trails of weight 52
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 94.58s
+Finding all trails of weight 53
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 108.8s
+Finding all trails of weight 54
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 120.58s
+Finding all trails of weight 55
+	Solutions: 0
+	Trails found: 5
+	Current Probability: -19.998496966920147
+	Time: 132.65s
+Finding all trails of weight 56
+	Solutions: 1
+	Trails found: 6
+	Current Probability: -19.998496966899175
+	Time: 147.13s
+Finding all trails of weight 57
+	Solutions: 2
+	Trails found: 8
+	Current Probability: -19.998496966878204
+	Time: 169.03s
+Finding all trails of weight 58
+	Solutions: 1
+	Trails found: 9
+	Current Probability: -19.99849696687296
+	Time: 186.99s
+Finding all trails of weight 59
+	Solutions: 8
+	Trails found: 17
+	Current Probability: -19.998496966851988
+	Time: 209.73s
+Finding all trails of weight 60
+	Solutions: 10
+	Trails found: 27
+	Current Probability: -19.99849696683888
+	Time: 238.6s
+Finding all trails of weight 61
+	Solutions: 19
+	Trails found: 46
+	Current Probability: -19.99849696682643
+	Time: 281.84s
+Finding all trails of weight 62
+	Solutions: 21
+	Trails found: 67
+	Current Probability: -19.998496966819545
+	Time: 334.84s
+Finding all trails of weight 63
+	Solutions: 45
+	Trails found: 112
+	Current Probability: -19.998496966812173
+	Time: 381.39s
+

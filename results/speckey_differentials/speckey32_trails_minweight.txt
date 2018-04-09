@@ -1,0 +1,120 @@
+Number of rounds: 1
+Starting search for characteristic with minimal weight
+speckey - Rounds: 1 Wordsize: 16
+---
+Weight: 0 Time: 0.0s
+Weight: 1 Time: 0.03s
+---
+Characteristic for speckey - Rounds 1 - Wordsize 16 - Weight 1 - Time 0.06s
+Rounds	x       y       whex    
+-------------------------------
+0	0xFFFF  0xFFFE  0x0001  
+1	0xFFFF  0x0004  none    
+
+Weight: 1
+Rounds:
+Number of rounds: 2
+Starting search for characteristic with minimal weight
+speckey - Rounds: 2 Wordsize: 16
+---
+Weight: 1 Time: 0.0s
+---
+Characteristic for speckey - Rounds 2 - Wordsize 16 - Weight 1 - Time 0.07s
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x8000  0x8000  
+1	0x0000  0x0002  0x0002  
+2	0x0002  0x000A  none    
+
+Weight: 1
+Rounds:
+Number of rounds: 3
+Starting search for characteristic with minimal weight
+speckey - Rounds: 3 Wordsize: 16
+---
+Weight: 1 Time: 0.0s
+Weight: 2 Time: 0.05s
+Weight: 3 Time: 0.11s
+---
+Characteristic for speckey - Rounds 3 - Wordsize 16 - Weight 3 - Time 0.17s
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  none    
+
+Weight: 3
+Rounds:
+Number of rounds: 4
+Starting search for characteristic with minimal weight
+speckey - Rounds: 4 Wordsize: 16
+---
+Weight: 3 Time: 0.0s
+Weight: 4 Time: 0.07s
+Weight: 5 Time: 0.18s
+---
+Characteristic for speckey - Rounds 4 - Wordsize 16 - Weight 5 - Time 0.34s
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 5
+Rounds:
+Number of rounds: 5
+Starting search for characteristic with minimal weight
+speckey - Rounds: 5 Wordsize: 16
+---
+Weight: 5 Time: 0.0s
+Weight: 6 Time: 0.16s
+Weight: 7 Time: 0.42s
+Weight: 8 Time: 0.75s
+Weight: 9 Time: 1.54s
+---
+Characteristic for speckey - Rounds 5 - Wordsize 16 - Weight 9 - Time 2.16s
+Rounds	x       y       whex    
+-------------------------------
+0	0x0211  0x0A04  0x2A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  0x8102  
+5	0x8000  0x840A  none    
+
+Weight: 9
+Rounds:
+Number of rounds: 6
+Starting search for characteristic with minimal weight
+speckey - Rounds: 6 Wordsize: 16
+---
+Weight: 9 Time: 0.0s
+Weight: 10 Time: 1.26s
+Weight: 11 Time: 3.09s
+Weight: 12 Time: 6.51s
+Weight: 13 Time: 12.66s
+---
+Characteristic for speckey - Rounds 6 - Wordsize 16 - Weight 13 - Time 18.89s
+Rounds	x       y       whex    
+-------------------------------
+0	0x0211  0x0A04  0x2A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  0x8102  
+5	0x8000  0x840A  0x850A  
+6	0x850A  0x9520  none    
+
+Weight: 13
+Rounds:
+Number of rounds: 7
+Starting search for characteristic with minimal weight
+speckey - Rounds: 7 Wordsize: 16
+---
+Weight: 13 Time: 0.0s
+Weight: 14 Time: 7.55s
+Weight: 15 Time: 21.18s
+Weight: 16 Time: 36.08s

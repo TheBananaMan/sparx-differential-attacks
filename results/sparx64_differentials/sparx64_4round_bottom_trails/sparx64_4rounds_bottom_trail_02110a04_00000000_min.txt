@@ -1,0 +1,36 @@
+$ python3 cryptosmt.py --inputfile examples/sparxround/sparx64_4round_bottom/sparx64_4rounds_bottom_trail_02110a04_00000000_min.yaml 
+Number of rounds: 4
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 4 Wordsize: 16
+---
+Weight: 0 Time: 0.0s
+Weight: 1 Time: 0.04s
+Weight: 2 Time: 0.05s
+Weight: 3 Time: 0.07s
+Weight: 4 Time: 0.08s
+Weight: 5 Time: 0.13s
+Weight: 6 Time: 0.17s
+Weight: 7 Time: 0.22s
+Weight: 8 Time: 0.27s
+---
+Characteristic for sparxround - Rounds 4 - Wordsize 16 - Weight 8 - Time 0.32s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0211  0x0A04  0x0000  0x0000  none    none    -4      -0      
+1	0x2800  0x0010  0x0000  0x0000  none    none    -2      -0      
+2	0x0040  0x0000  0x0000  0x0000  0x8000  0x8000  -0      -0      
+3	0x8000  0x8000  0x8000  0x8000  none    none    -1      -1      
+4	0x8100  0x8102  0x8100  0x8102  none    none    none    none    
+
+Weight: 8
+Rounds:
+Number of rounds: 5
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 5 Wordsize: 16
+---
+Weight: 8 Time: 0.0s
+Weight: 9 Time: 0.06s
+Weight: 10 Time: 0.13s
+Weight: 11 Time: 0.2s
+Weight: 12 Time: 0.27s
+

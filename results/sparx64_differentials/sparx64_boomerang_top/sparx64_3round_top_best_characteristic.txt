@@ -1,0 +1,34 @@
+$ python3 cryptosmt.py --inputfile examples/sparxround/sparx64_boomerang_top_trails/sparx64_3rounds_28000010_28000010.yaml 
+Number of rounds: 3
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 3 Wordsize: 16
+---
+Weight: 0 Time: 0.0s
+Weight: 1 Time: 0.02s
+Weight: 2 Time: 0.03s
+Weight: 3 Time: 0.08s
+Weight: 4 Time: 0.12s
+Weight: 5 Time: 0.16s
+Weight: 6 Time: 0.2s
+Weight: 7 Time: 0.25s
+Weight: 8 Time: 0.29s
+Weight: 9 Time: 0.34s
+Weight: 10 Time: 0.4s
+Weight: 11 Time: 0.45s
+Weight: 12 Time: 0.5s
+Weight: 13 Time: 0.55s
+Weight: 14 Time: 0.6s
+Weight: 15 Time: 0.65s
+Weight: 16 Time: 0.69s
+Weight: 17 Time: 0.74s
+---
+Characteristic for sparxround - Rounds 3 - Wordsize 16 - Weight 17 - Time 0.79s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x0000  0x0000  none    none    -0      -0      
+1	0x0A20  0x4205  0x8508  0x0502  none    none    -5      -5      
+2	0x0211  0x0A04  0x1408  0x0000  0x3828  0x1038  -4      -3      
+3	0x2800  0x0010  0x2800  0x0010  none    none    none    none    
+
+Weight: 17
+

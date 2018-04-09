@@ -1,0 +1,23 @@
+$ python3 cryptosmt.py --inputfile examples/speckey/speckey4rounds_1000_1000.yaml 
+Number of rounds: 4
+Starting search for characteristic with minimal weight
+speckey - Rounds: 4 Wordsize: 16
+---
+Weight: 5 Time: 0.0s
+Weight: 6 Time: 0.07s
+Weight: 7 Time: 0.15s
+Weight: 8 Time: 0.22s
+Weight: 9 Time: 0.29s
+Weight: 10 Time: 0.36s
+---
+Characteristic for speckey - Rounds 4 - Wordsize 16 - Weight 10 - Time 0.44s
+Rounds	x       y       whex    
+-------------------------------
+0	0x0144  0xA840  -4  
+1	0x2042  0x8140  -3  
+2	0x0500  0x0002  -2  
+3	0x0008  0x0000  -1  
+4	0x1000  0x1000  none    
+
+Weight: 10
+

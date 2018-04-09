@@ -1,0 +1,6054 @@
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 5
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 5
+Found 1 characteristics with weight 5
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 6
+Rounds	x       y       whex    
+-------------------------------
+0	0x6800  0x0010  0x00D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 6
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 6
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 6
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 6
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x0800  0x2800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 6
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 6
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8106  
+4	0x8004  0x840E  none    
+
+Weight: 6
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 6
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 6
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 6
+Rounds	x       y       whex    
+-------------------------------
+0	0x3800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 6
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 6
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8302  
+4	0x8200  0x860A  none    
+
+Weight: 6
+Found 7 characteristics with weight 6
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0211  0x0A04  0x2A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1408  
+4	0x1408  0x4408  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0xA840  0x0010  0x8150  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x5800  0x0010  0x00F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x810E  
+4	0x800C  0x8406  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0xE800  0x0010  0x01D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5020  
+4	0x5020  0x1021  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x7800  0x0010  0x00F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x2054  0x0800  0xA840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xD020  
+4	0xD020  0x9021  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0281  0x0201  0x0205  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A04  0x0804  0x0834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8702  
+4	0x8600  0x820A  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0604  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0502  
+4	0x0100  0x1508  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8306  
+4	0x8204  0x860E  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x850A  
+4	0x850A  0x9520  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A0C  0x0804  0x1814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E04  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x850A  
+4	0x840A  0x8028  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8106  
+4	0x8004  0x840E  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x1408  
+4	0x0400  0x5420  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x000C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A00  0x0004  0x0014  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA040  
+4	0x2000  0xA102  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1028  
+4	0x1028  0x1088  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x0800  0x2800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x81C0  
+4	0x00C0  0x05C2  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0205  0x0204  0x0A04  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8140  
+4	0x8140  0x8440  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040A  
+4	0x040A  0x0422  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0034  0x0800  0x6800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x0800  0x2800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8340  
+4	0x0240  0x0742  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x0800  0x2800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x82C0  
+4	0x03C0  0x06C2  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x3800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8106  
+4	0x8004  0x840E  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0074  0x0800  0xE800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x6800  0x0010  0x00D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8106  
+4	0x8004  0x840E  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8302  
+4	0x8302  0x8308  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x001C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x6800  0x0010  0x00D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8302  
+4	0x8200  0x860A  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8302  
+4	0x8200  0x860A  none    
+
+Weight: 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 7
+Rounds	x       y       whex    
+-------------------------------
+0	0x3800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8302  
+4	0x8200  0x860A  none    
+
+Weight: 7
+Found 40 characteristics with weight 7
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0181  0x0201  0x0207  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1400  0x0008  0x0028  
+1	0x0020  0x0000  0x4000  
+2	0x4000  0x4000  0x4080  
+3	0x4080  0x4081  0x4081  
+4	0x4000  0x4205  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0281  0x0201  0x0205  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA0C0  
+4	0xA0C0  0x20C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8306  
+4	0x8306  0x830C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8150  0x2000  0xA102  
+1	0x8102  0x0102  0x0502  
+2	0x0400  0x0008  0x0008  
+3	0x0000  0x0020  0x0020  
+4	0x0020  0x00A0  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x020F  0x0A04  0x3604  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x2C08  
+4	0x3C00  0x6C20  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x4205  0x0080  0x0A84  
+1	0x0A04  0x0804  0x0814  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0815  0x0200  0x2A10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8141  0x8100  0x8302  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5020  
+4	0x5020  0x1021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6840  0x0010  0x81D0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x810E  
+4	0x810E  0x8104  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0205  0x0204  0x0A04  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x81C0  
+4	0x80C0  0x85C0  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0280  0x0001  0x0005  
+1	0x0004  0x0000  0x0800  
+2	0x0800  0x0800  0x0810  
+3	0x0810  0x2810  0x2810  
+4	0x0800  0xA840  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2034  0x0800  0xE840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x5020  0x4020  0x40A0  
+1	0x0080  0x0001  0x0001  
+2	0x0000  0x0004  0x0004  
+3	0x0004  0x0014  0x0814  
+4	0x0814  0x0844  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8306  
+4	0x8204  0x860E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x811E  
+4	0x801C  0x8416  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x851A  
+4	0x851A  0x9530  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8706  
+4	0x8604  0x820E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0281  0x0201  0x0205  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xE040  
+4	0x6040  0xE042  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1604  0x0804  0x083C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0211  0x0A04  0x2A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8300  
+4	0x8300  0x8302  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x3A04  0x0804  0x0874  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xD800  0x0010  0x01F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x0C0A  
+4	0x0C0A  0x0C22  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0542  0x8000  0x840A  
+1	0x040A  0x0408  0x1408  
+2	0x1000  0x0020  0x0020  
+3	0x0000  0x0080  0x0080  
+4	0x0080  0x0280  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x9840  0x0010  0x8170  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8440  0x8102  0x810A  
+1	0x000A  0x0400  0x1400  
+2	0x1000  0x0000  0x0020  
+3	0x0020  0x0020  0xC020  
+4	0xC020  0xC0A0  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x204C  0x0800  0xB840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x40E0  0x4080  0xC081  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x2810  
+4	0x2810  0x8810  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8440  0x8102  0x810A  
+1	0x000A  0x0400  0x1400  
+2	0x1000  0x0000  0x0020  
+3	0x0020  0x0020  0x4020  
+4	0x4020  0x40A0  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6050  0x2040  0xA0C0  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1408  
+4	0x1408  0x4408  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x002C  0x0800  0x7800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8702  
+4	0x8702  0x8708  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8040  0x0000  0x8100  
+1	0x8100  0x8100  0x8102  
+2	0x8002  0x8400  0x8500  
+3	0x8100  0x9102  0x9102  
+4	0x9000  0xD40A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0702  
+4	0x0300  0x1708  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x3408  
+4	0x3408  0x6408  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x830E  
+4	0x820C  0x8606  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A00  0x0004  0x0034  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA040  
+4	0x2000  0xA102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A0C  0x0804  0x1834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x3028  
+4	0x3028  0x3088  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA041  0x8040  0x8340  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1028  
+4	0x1028  0x1088  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0209  0x0A04  0x3A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x850E  
+4	0x850E  0x9524  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2A10  0x0004  0x2054  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x0800  0x2800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x83C0  
+4	0x02C0  0x07C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x000A  0x0400  0x1400  
+1	0x1000  0x0000  0x0020  
+2	0x0020  0x0020  0x4020  
+3	0x4020  0x40A0  0xC0A0  
+4	0x8020  0x82A1  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x8D0A  
+4	0x8C0A  0x8828  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5060  
+4	0x5060  0x1061  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2054  0x0800  0xA840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0018  
+4	0x0018  0x0038  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x870A  
+4	0x830A  0x9320  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0283  0x0201  0x0605  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A1C  0x0804  0x3814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x021F  0x0A04  0x3604  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xB840  0x0010  0x8170  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x870A  
+4	0x870A  0x9720  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0213  0x0A04  0x2E04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x850E  
+4	0x8506  0x952C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x40A0  0x4080  0x4081  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x2810  
+4	0x2810  0x8810  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0611  0x0A04  0x2A0C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x006C  0x0800  0xF800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA841  0x0010  0x8350  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0068  0x1000  0xD000  
+1	0x4000  0x0000  0x0080  
+2	0x0080  0x0080  0x0081  
+3	0x0081  0x0281  0x0281  
+4	0x0080  0x0A84  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0203  0x0204  0x0E04  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8140  
+4	0x8140  0x8440  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1418  
+4	0x1418  0x4418  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0281  0x0201  0x0205  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xE040  
+4	0xE040  0x6042  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1E04  0x0804  0x083C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0502  0x0402  0x040A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0x4081  
+4	0x4081  0x4084  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xE801  0x0010  0x03D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8F02  
+4	0x8E00  0x8A0A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0340  0x8000  0x8006  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x1408  
+4	0x0400  0x5420  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xD060  
+4	0xD060  0x9061  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0881  0x0205  0x0215  
+1	0x0014  0x0800  0x2800  
+2	0x2000  0x0000  0x0040  
+3	0x0040  0x0040  0x8040  
+4	0x8040  0x8140  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0219  0x0A04  0x3A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8300  
+3	0x8300  0x8302  0x8306  
+4	0x8000  0x8C0A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1400  0x0008  0x0028  
+1	0x0020  0x0000  0x4000  
+2	0x4000  0x4000  0x4080  
+3	0x4080  0x4081  0xC081  
+4	0xC000  0xC205  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1408  0x1008  0x1028  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x0205  
+4	0x0205  0x0211  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8300  
+3	0x8300  0x8302  0x8306  
+4	0x8200  0x8E0A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0271  0x0A04  0xEA04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0605  0x0204  0x0A0C  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8140  
+4	0x8140  0x8440  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xE840  0x0010  0x81D0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0231  0x0A04  0x6A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8340  0x8100  0x8106  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xD020  
+4	0xD020  0x9021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x870A  
+4	0x820A  0x8628  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8340  0x8100  0x8106  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5020  
+4	0x5020  0x1021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2850  0x2010  0xA050  
+1	0x8040  0x0000  0x8100  
+2	0x8100  0x8100  0x8102  
+3	0x8002  0x8400  0x8500  
+4	0x8100  0x9102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x850E  
+4	0x8406  0x8024  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x0800  0x2800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x86C0  
+4	0x07C0  0x02C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x5000  0x0020  0x00A0  
+1	0x0080  0x0000  0x0001  
+2	0x0001  0x0001  0x0201  
+3	0x0201  0x0205  0x0205  
+4	0x0001  0x0815  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x205C  0x0800  0xB840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0205  0x0204  0x0A04  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8340  
+4	0x8340  0x8640  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6800  0x0010  0x00D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x810E  
+4	0x800C  0x8406  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0207  0x0204  0x0E04  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8140  
+4	0x8140  0x8440  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0500  0x0002  0x000A  
+1	0x0008  0x0000  0x1000  
+2	0x1000  0x1000  0x1020  
+3	0x1020  0x5020  0xB020  
+4	0xF000  0xB081  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA840  0x0010  0x8150  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x3000  
+4	0x3000  0x7000  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0800  0x0010  0x0010  
+1	0x0000  0x0040  0x0040  
+2	0x0040  0x0140  0x8140  
+3	0x8140  0x8440  0x8542  
+4	0x0542  0x1440  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x060C  0x0804  0x181C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0502  0x0402  0x040A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0xC081  
+4	0xC081  0xC084  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x000A  0x0400  0x1400  
+1	0x1000  0x0000  0x0020  
+2	0x0020  0x0020  0x4020  
+3	0x4020  0x40A0  0x40A0  
+4	0x0020  0x02A1  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A00  0x0004  0x0014  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xE040  
+4	0x6000  0xE102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2040  0x0000  0x8040  
+1	0x8040  0x8040  0x8140  
+2	0x0140  0x0042  0x8042  
+3	0x8040  0x8148  0x8148  
+4	0x0048  0x056A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0381  0x0201  0x0207  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xF020  
+4	0xB020  0xF021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2074  0x0800  0xE840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0500  0x0002  0x000A  
+1	0x0008  0x0000  0x1000  
+2	0x1000  0x1000  0x1020  
+3	0x1020  0x5020  0xD020  
+4	0x9000  0xD081  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2030  0x2040  0xE040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1408  
+4	0x1408  0x4408  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0500  0x0002  0x000A  
+1	0x0008  0x0000  0x1000  
+2	0x1000  0x1000  0x1020  
+3	0x1020  0x5020  0x5020  
+4	0x1000  0x5081  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x7020  
+4	0x3020  0x7021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8141  0x8100  0x8302  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xD020  
+4	0xD020  0x9021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0004  0x0800  0x0800  
+1	0x0000  0x2000  0x2000  
+2	0x2000  0xA000  0xA040  
+3	0xA040  0x2042  0xA142  
+4	0xA102  0x200A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x1418  
+4	0x0410  0x5430  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x1C08  
+4	0x0C00  0x5C20  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0681  0x0201  0x020D  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x8D0A  
+4	0x8D0A  0x9D20  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x040A  0x0408  0x1408  
+1	0x1000  0x0020  0x0020  
+2	0x0000  0x0080  0x0080  
+3	0x0080  0x0280  0x0281  
+4	0x0281  0x0881  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x00A0  0x4000  0x4001  
+1	0x0001  0x0000  0x0200  
+2	0x0200  0x0200  0x0204  
+3	0x0204  0x0A04  0x0A04  
+4	0x0200  0x2A10  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8102  0x0102  0x0502  
+1	0x0400  0x0008  0x0008  
+2	0x0000  0x0020  0x0020  
+3	0x0020  0x00A0  0xC0A0  
+4	0xC0A0  0xC220  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8300  
+3	0x8300  0x8302  0x8306  
+4	0x8004  0x8C0E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6054  0x0800  0xA8C0  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x5060  0x4020  0xC0A0  
+1	0x0080  0x0001  0x0001  
+2	0x0000  0x0004  0x0004  
+3	0x0004  0x0014  0x0814  
+4	0x0814  0x0844  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x851A  
+4	0x841A  0x8038  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x850E  
+4	0x840E  0x802C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2070  0x2040  0xE040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1408  
+4	0x1408  0x4408  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x7020  
+4	0x7020  0x3021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040E  
+4	0x0406  0x042E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8102  0x0102  0x0502  
+1	0x0400  0x0008  0x0008  
+2	0x0000  0x0020  0x0020  
+3	0x0020  0x00A0  0x40A0  
+4	0x40A0  0x4220  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E0C  0x0804  0x181C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xF800  0x0010  0x01F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xF020  
+4	0xF020  0xB021  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x810E  
+4	0x800C  0x8406  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2042  0x8140  0x8540  
+1	0x0500  0x0002  0x000A  
+2	0x0008  0x0000  0x1000  
+3	0x1000  0x1000  0x1020  
+4	0x1020  0x5020  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2000  0x0000  0x0040  
+1	0x0040  0x0040  0x8040  
+2	0x8040  0x8140  0x8140  
+3	0x0040  0x0542  0x8542  
+4	0x8542  0x904A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8002  0x0100  0x0500  
+1	0x0400  0x0000  0x0008  
+2	0x0008  0x0008  0x1008  
+3	0x1008  0x1028  0x1028  
+4	0x0008  0x40A8  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x4001  0x0080  0x0280  
+1	0x0200  0x0000  0x0004  
+2	0x0004  0x0004  0x0804  
+3	0x0804  0x0814  0x0814  
+4	0x0004  0x2054  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0506  
+4	0x0104  0x150C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A0C  0x0804  0x1814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1068  0x1020  0xD020  
+1	0x4000  0x0080  0x0080  
+2	0x0000  0x0200  0x0200  
+3	0x0200  0x0A00  0x0A04  
+4	0x0A04  0x2204  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x003C  0x0800  0x7800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x00E0  0x4000  0xC001  
+1	0x0001  0x0000  0x0200  
+2	0x0200  0x0200  0x0204  
+3	0x0204  0x0A04  0x0A04  
+4	0x0200  0x2A10  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x870A  
+4	0x860A  0x8228  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1C08  
+4	0x0C08  0x5C08  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1028  0x1020  0x5020  
+1	0x4000  0x0080  0x0080  
+2	0x0000  0x0200  0x0200  
+3	0x0200  0x0A00  0x0A04  
+4	0x0A04  0x2204  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1038  
+4	0x1018  0x10B8  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0030  0x2000  0xE000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0502  
+4	0x0100  0x1508  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0005  0x0200  0x0A00  
+1	0x0800  0x0000  0x0010  
+2	0x0010  0x0010  0x2010  
+3	0x2010  0x2050  0x2050  
+4	0x0010  0x8150  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x020D  0x0204  0x1A04  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8140  
+4	0x8140  0x8440  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A00  0x0004  0x0014  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA0C0  
+4	0x2080  0xA182  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x5800  0x0010  0x00F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8106  
+4	0x8004  0x840E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0028  0x1000  0x5000  
+1	0x4000  0x0000  0x0080  
+2	0x0080  0x0080  0x0081  
+3	0x0081  0x0281  0x0281  
+4	0x0080  0x0A84  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x5800  0x0010  0x00F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8302  
+4	0x8200  0x860A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8300  
+3	0x8300  0x8302  0x8306  
+4	0x8204  0x8E0E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A00  0x0004  0x0014  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0x6040  
+4	0xE000  0x6102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0D02  
+4	0x0900  0x1D08  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x3408  
+4	0x2400  0x7420  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1C08  
+4	0x1C08  0x4C08  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x007C  0x0800  0xF800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2204  0x0814  0x0854  
+1	0x0050  0x2000  0xA000  
+2	0x8000  0x0000  0x0100  
+3	0x0100  0x0100  0x0102  
+4	0x0102  0x0502  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A04  0x0804  0x0834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2110  0xA040  0xA042  
+1	0x8002  0x0100  0x0500  
+2	0x0400  0x0000  0x0008  
+3	0x0008  0x0008  0x1008  
+4	0x1008  0x1028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x4081  0x0081  0x0281  
+1	0x0200  0x0004  0x0004  
+2	0x0000  0x0010  0x0010  
+3	0x0010  0x0050  0x2050  
+4	0x2050  0x2110  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1038  
+4	0x1038  0x1098  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0070  0x2000  0xE000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0502  
+4	0x0100  0x1508  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0205  0x0204  0x0A04  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x81C0  
+4	0x81C0  0x84C0  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8702  
+4	0x8600  0x820A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0B02  
+4	0x0F00  0x1B08  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x3800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x810E  
+4	0x800C  0x8406  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6040  0x8040  0x81C0  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1028  
+4	0x1028  0x1088  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1068  
+4	0x1068  0x10C8  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A04  0x0804  0x0834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8302  
+4	0x8302  0x8308  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x0800  0x2800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8740  
+4	0x0640  0x0342  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xA000  0x0040  0x0140  
+1	0x0100  0x0000  0x0002  
+2	0x0002  0x0002  0x0402  
+3	0x0402  0x040A  0x040A  
+4	0x0002  0x102A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xE800  0x0010  0x01D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8302  
+4	0x8200  0x860A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x3800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8306  
+4	0x8204  0x860E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0844  0x2810  0xA810  
+1	0xA000  0x0040  0x0140  
+2	0x0100  0x0000  0x0002  
+3	0x0002  0x0002  0x0402  
+4	0x0402  0x040A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x3800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8702  
+4	0x8600  0x820A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x000C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x81C0  
+4	0x00C0  0x05C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0604  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xE800  0x0010  0x01D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8106  
+4	0x8004  0x840E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0600  0x0004  0x001C  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA040  
+4	0x2000  0xA102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E00  0x0004  0x001C  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA040  
+4	0x2000  0xA102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E04  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x041A  
+4	0x041A  0x0432  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2014  0x0800  0x2840  
+1	0x2040  0x0040  0x8040  
+2	0x8000  0x8100  0x8100  
+3	0x8000  0x8402  0x8502  
+4	0x8502  0x9508  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6800  0x0010  0x00D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8306  
+4	0x8204  0x860E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x7800  0x0010  0x00F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8106  
+4	0x8004  0x840E  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x1810  0x2010  0x2070  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040A  
+4	0x040A  0x0422  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x8810  0x2050  0x2150  
+1	0x0140  0x8000  0x8002  
+2	0x0002  0x0000  0x0400  
+3	0x0400  0x0400  0x0408  
+4	0x0408  0x1408  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0814  0x0810  0x2810  
+1	0x2000  0x0040  0x0040  
+2	0x0000  0x0100  0x0100  
+3	0x0100  0x0500  0x0502  
+4	0x0502  0x1102  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0604  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8302  
+4	0x8302  0x8308  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E04  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8302  
+4	0x8302  0x8308  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A0C  0x0804  0x1814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8302  
+4	0x8302  0x8308  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040E  
+4	0x040E  0x0426  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x3810  0x2010  0x2070  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040A  
+4	0x040A  0x0422  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6800  0x0010  0x00D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8702  
+4	0x8600  0x820A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x000C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x82C0  
+4	0x03C0  0x06C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x7800  0x0010  0x00F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8302  
+4	0x8200  0x860A  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x000C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8340  
+4	0x0240  0x0742  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0030  0x2000  0x6000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x850A  
+4	0x840A  0x8028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x001C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8340  
+4	0x0240  0x0742  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0xE040  0x8040  0x81C0  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1028  
+4	0x1028  0x1088  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x6810  0x2010  0x20D0  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040A  
+4	0x040A  0x0422  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2830  0x2010  0x6050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040A  
+4	0x040A  0x0422  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x001C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x81C0  
+4	0x00C0  0x05C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x001C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x82C0  
+4	0x03C0  0x06C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x2870  0x2010  0xE050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040A  
+4	0x040A  0x0422  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0070  0x2000  0xE000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x850A  
+4	0x840A  0x8028  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0034  0x0800  0x6800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x82C0  
+4	0x03C0  0x06C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0074  0x0800  0xE800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x81C0  
+4	0x00C0  0x05C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0034  0x0800  0x6800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x81C0  
+4	0x00C0  0x05C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0074  0x0800  0xE800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x82C0  
+4	0x03C0  0x06C2  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0074  0x0800  0xE800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8340  
+4	0x0240  0x0742  none    
+
+Weight: 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 8
+Rounds	x       y       whex    
+-------------------------------
+0	0x0034  0x0800  0x6800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8340  
+4	0x0240  0x0742  none    
+
+Weight: 8
+Found 213 characteristics with weight 8
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0003  0x0200  0x0E00  
+1	0x0800  0x0000  0x0010  
+2	0x0010  0x0010  0x2010  
+3	0x2010  0x2050  0x2050  
+4	0x0010  0x8150  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A0C  0x0804  0x1814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x810E  
+4	0x810E  0x8104  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x870E  
+4	0x8306  0x932C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1438  
+4	0x1438  0x4438  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4605  0x0080  0x0A8C  
+1	0x0A04  0x0804  0x0814  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xD801  0x0010  0x03F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A0C  0x0804  0x1834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x8000  0x8000  
+1	0x0000  0x0002  0x0002  
+2	0x0002  0x000A  0x040A  
+3	0x040A  0x0422  0x142A  
+4	0x102A  0x00A2  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x060C  0x0804  0x181C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6054  0x0800  0xA8C0  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0018  
+4	0x0018  0x0038  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4203  0x0080  0x0E84  
+1	0x0A04  0x0804  0x0814  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1508  0x0002  0x102A  
+1	0x1028  0x1020  0x5020  
+2	0x4000  0x0080  0x0080  
+3	0x0000  0x0200  0x0200  
+4	0x0200  0x0A00  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6840  0x0010  0x81D0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x3000  
+4	0x3000  0x7000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4201  0x0380  0x0584  
+1	0x0604  0x0804  0x081C  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3604  0x0804  0x087C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x7408  
+4	0x6400  0x3420  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x420D  0x0080  0x1A84  
+1	0x0A04  0x0804  0x0814  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xC201  0x0380  0x0584  
+1	0x0604  0x0804  0x081C  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x9D0A  
+4	0x9C0A  0x9828  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2610  0x0004  0x205C  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x5840  0x0010  0x81F0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xE810  0x2010  0x21D0  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040A  
+4	0x040A  0x0422  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2A70  0x0004  0xE054  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x813E  
+4	0x803C  0x8436  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x840A  0x0100  0x1508  
+1	0x1408  0x1008  0x1028  
+2	0x0020  0x4000  0x4000  
+3	0x0000  0x0001  0x0001  
+4	0x0001  0x0005  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0001  0x0200  0x0200  
+1	0x0000  0x0800  0x0800  
+2	0x0800  0x2800  0x2810  
+3	0x2810  0x8810  0xA850  
+4	0xA840  0x8802  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0271  0x0A04  0xEA04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8300  
+4	0x8300  0x8302  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A84  0x0001  0x0815  
+1	0x0814  0x0810  0x2810  
+2	0x2000  0x0040  0x0040  
+3	0x0000  0x0100  0x0100  
+4	0x0100  0x0500  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x102A  0x0400  0x5420  
+1	0x5020  0x4020  0x40A0  
+2	0x0080  0x0001  0x0001  
+3	0x0000  0x0004  0x0004  
+4	0x0004  0x0014  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x5081  0x0020  0x02A1  
+1	0x0281  0x0201  0x0205  
+2	0x0004  0x0800  0x0800  
+3	0x0000  0x2000  0x2000  
+4	0x2000  0xA000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x7060  
+4	0x3060  0x7061  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0581  0x0201  0x020F  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x40A8  0x1000  0x5081  
+1	0x4081  0x0081  0x0281  
+2	0x0200  0x0004  0x0004  
+3	0x0000  0x0010  0x0010  
+4	0x0010  0x0050  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA102  0x0040  0x0542  
+1	0x0502  0x0402  0x040A  
+2	0x0008  0x1000  0x1000  
+3	0x0000  0x4000  0xC000  
+4	0xC000  0xC001  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A04  0x0804  0x0834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x810E  
+4	0x810E  0x8104  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4207  0x0080  0x0E84  
+1	0x0A04  0x0804  0x0814  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xC204  0x0080  0x0B84  
+1	0x0A04  0x0804  0x0814  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x851E  
+4	0x8516  0x953C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x851E  
+4	0x851E  0x9534  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0805  0x0E00  0x1610  
+1	0x1810  0x2010  0x2070  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0201  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x050E  
+4	0x010C  0x1504  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA102  0x0040  0x0542  
+1	0x0502  0x0402  0x040A  
+2	0x0008  0x1000  0x1000  
+3	0x0000  0x4000  0x4000  
+4	0x4000  0x4001  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8340  0x8100  0x8106  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xD060  
+4	0xD060  0x9061  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xC205  0x0080  0x0B84  
+1	0x0A04  0x0804  0x0814  
+2	0x0010  0x2000  0x2000  
+3	0x0000  0x8000  0x8000  
+4	0x8000  0x8002  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3A0C  0x0804  0x1874  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x9D0A  
+4	0x9D0A  0x8D20  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x5000  0x0020  0x00A0  
+1	0x0080  0x0000  0x0001  
+2	0x0001  0x0001  0x0201  
+3	0x0201  0x0205  0x0605  
+4	0x0401  0x0C15  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x01C2  0x8003  0x8405  
+1	0x0406  0x0408  0x1C08  
+2	0x1000  0x0020  0x0020  
+3	0x0000  0x0080  0x0080  
+4	0x0080  0x0280  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0807  0x0E00  0x1610  
+1	0x1810  0x2010  0x2070  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x000A  0x0400  0x1400  
+1	0x1000  0x0000  0x0020  
+2	0x0020  0x0020  0x4020  
+3	0x4020  0x40A0  0x40E0  
+4	0x0060  0x02E1  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x8F0A  
+4	0x8B0A  0x9B20  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x851E  
+4	0x8416  0x8034  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0502  0x0402  0x040A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0x4181  
+4	0x4181  0x4184  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x811E  
+4	0x801C  0x8416  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x020B  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8340  0x8100  0x8106  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xF020  
+4	0xB020  0xF021  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0D42  0x8000  0x841A  
+1	0x040A  0x0408  0x1408  
+2	0x1000  0x0020  0x0020  
+3	0x0000  0x0080  0x0080  
+4	0x0080  0x0280  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0028  0x1000  0x5000  
+1	0x4000  0x0000  0x0080  
+2	0x0080  0x0080  0x0081  
+3	0x0081  0x0281  0x0681  
+4	0x0480  0x0E84  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1078  
+4	0x1058  0x10F8  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4408  0x1028  0x10A8  
+1	0x00A0  0x4000  0x4001  
+2	0x0001  0x0000  0x0200  
+3	0x0200  0x0200  0x0204  
+4	0x0204  0x0A04  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x3C08  
+4	0x2C00  0x7C20  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x000C  0x0800  0x1800  
+1	0x0000  0x2000  0x2000  
+2	0x2000  0xA000  0xA040  
+3	0xA040  0x2042  0xA142  
+4	0xA102  0x200A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2000  0x0000  0x0040  
+1	0x0040  0x0040  0x8040  
+2	0x8040  0x8140  0x8140  
+3	0x0040  0x0542  0x8546  
+4	0x8546  0x904E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x080D  0x0200  0x3A10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x40E0  0x4080  0xC081  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x2830  
+4	0x2830  0x8830  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x106A  0x0400  0xD420  
+1	0x5020  0x4020  0x40A0  
+2	0x0080  0x0001  0x0001  
+3	0x0000  0x0004  0x0004  
+4	0x0004  0x0014  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0205  0x0E04  0x3604  
+1	0x3800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x871A  
+4	0x831A  0x9330  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3020  0x4020  0x40E0  
+1	0x0080  0x0001  0x0001  
+2	0x0000  0x0004  0x0004  
+3	0x0004  0x0014  0x0814  
+4	0x0814  0x0844  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8300  
+3	0x8300  0x8302  0x8706  
+4	0x8400  0x880A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0781  0x0205  0x021B  
+1	0x0014  0x0800  0x2800  
+2	0x2000  0x0000  0x0040  
+3	0x0040  0x0040  0x8040  
+4	0x8040  0x8140  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0004  0x0800  0x0800  
+1	0x0000  0x2000  0x2000  
+2	0x2000  0xA000  0xA040  
+3	0xA040  0x2042  0xA342  
+4	0xA302  0x220A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xF801  0x0010  0x03F0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0203  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0815  0x0200  0x2A10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0006  
+4	0x0006  0x000E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0xF408  
+4	0xE400  0xB420  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0215  0x0E04  0x3604  
+1	0x3800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0209  0x0A04  0x3A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8300  
+4	0x8300  0x8302  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x870E  
+4	0x8706  0x972C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A0C  0x0804  0x1814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8306  
+4	0x8306  0x830C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x831E  
+4	0x821C  0x8616  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2040  0x0000  0x8040  
+1	0x8040  0x8040  0x8140  
+2	0x0140  0x0042  0x8042  
+3	0x8040  0x8148  0x8158  
+4	0x0058  0x057A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x870E  
+4	0x860C  0x8206  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0281  0x0201  0x0205  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xE0C0  
+4	0x60C0  0xE0C2  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1068  0x1020  0xD020  
+1	0x4000  0x0080  0x0080  
+2	0x0000  0x0200  0x0200  
+3	0x0200  0x0A00  0x0A0C  
+4	0x0A0C  0x220C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA843  0x0010  0x8750  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A1C  0x0804  0x3834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0D06  
+4	0x0904  0x1D0C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2000  0x0000  0x0040  
+1	0x0040  0x0040  0x8040  
+2	0x8040  0x8140  0x8140  
+3	0x0040  0x0542  0x8D42  
+4	0x8D42  0x984A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x020B  0x0A04  0x3E04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x02A1  0x4000  0x4205  
+1	0x0205  0x0204  0x0A04  
+2	0x0800  0x0010  0x0010  
+3	0x0000  0x0040  0x0040  
+4	0x0040  0x0140  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x8F0A  
+4	0x8F0A  0x9F20  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x02E1  0x4000  0xC205  
+1	0x0205  0x0204  0x0A04  
+2	0x0800  0x0010  0x0010  
+3	0x0000  0x0040  0x0040  
+4	0x0040  0x0140  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x7A04  0x0804  0x08F4  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E11  0x0A04  0x2A1C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0604  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8306  
+4	0x8306  0x830C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x060F  0x0A04  0x360C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x061C  0x0804  0x381C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0D02  0x0402  0x041A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0x4081  
+4	0x4081  0x4084  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2E10  0x0004  0x205C  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0813  0x0200  0x2E10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8F06  
+4	0x8E04  0x8A0E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x1438  
+4	0x0430  0x5410  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x006C  0x0800  0xF800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8340  
+4	0x0240  0x0742  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0209  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1078  
+4	0x1078  0x10D8  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8340  0x8100  0x8106  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x7020  
+4	0x3020  0x7021  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xE050  0x2040  0xA1C0  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1408  
+4	0x1408  0x4408  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0204  0x080C  0x083C  
+1	0x0030  0x2000  0x6000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x6C08  
+4	0x7C00  0x2C20  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x00E0  0x4000  0xC001  
+1	0x0001  0x0000  0x0200  
+2	0x0200  0x0200  0x0204  
+3	0x0204  0x0A04  0x0E04  
+4	0x0600  0x2E10  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x8D0E  
+4	0x8D06  0x9D2C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xD000  0x0020  0x01A0  
+1	0x0080  0x0000  0x0001  
+2	0x0001  0x0001  0x0201  
+3	0x0201  0x0205  0x0205  
+4	0x0001  0x0815  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2205  0x0204  0x0A44  
+1	0x0840  0x0050  0x8050  
+2	0x8040  0x8100  0x8100  
+3	0x0000  0x0402  0x0402  
+4	0x0402  0x140A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xD840  0x0010  0x81F0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A04  0x0804  0x0834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8306  
+4	0x8306  0x830C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x040A  0x0408  0x1408  
+1	0x1000  0x0020  0x0020  
+2	0x0000  0x0080  0x0080  
+3	0x0080  0x0280  0x0283  
+4	0x0283  0x0883  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0080  0x0805  0x0805  
+1	0x0804  0x2810  0x2810  
+2	0x2000  0x8040  0x8040  
+3	0x8000  0x8102  0x8102  
+4	0x8002  0x8408  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x830E  
+4	0x830E  0x8304  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8341  0x8100  0x8306  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5020  
+4	0x5020  0x1021  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0C00  0x0008  0x0038  
+1	0x0020  0x0000  0x4000  
+2	0x4000  0x4000  0x4080  
+3	0x4080  0x4081  0xC081  
+4	0xC000  0xC205  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0207  0x0E04  0x3604  
+1	0x3800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4028  0x7000  0xB080  
+1	0xC080  0x0081  0x0381  
+2	0x0200  0x0004  0x0004  
+3	0x0000  0x0010  0x0010  
+4	0x0010  0x0050  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1810  0x2010  0x2070  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x041A  
+4	0x041A  0x0432  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x870E  
+4	0x870E  0x9724  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3060  0x4020  0xC0E0  
+1	0x0080  0x0001  0x0001  
+2	0x0000  0x0004  0x0004  
+3	0x0004  0x0014  0x0814  
+4	0x0814  0x0844  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x1C0A  
+4	0x1C0A  0x1C22  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8340  0x8100  0x8106  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xF020  
+4	0xF020  0xB021  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x7840  0x0010  0x81F0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x9840  0x0010  0x8170  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x3000  
+4	0x3000  0x7000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0546  0x8000  0x8C0A  
+1	0x040A  0x0408  0x1408  
+2	0x1000  0x0020  0x0020  
+3	0x0000  0x0080  0x0080  
+4	0x0080  0x0280  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0207  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E81  0x0201  0x021D  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0C0A  0x0408  0x1418  
+1	0x1000  0x0020  0x0020  
+2	0x0000  0x0080  0x0080  
+3	0x0080  0x0280  0x0281  
+4	0x0281  0x0881  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3E04  0x0804  0x087C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8F02  
+4	0x8F02  0x8F08  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1408  0x1008  0x1028  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x0605  
+4	0x0605  0x0611  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0205  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0217  0x0E04  0x3604  
+1	0x3800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x853A  
+4	0x853A  0x9510  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1604  0x0804  0x083C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8106  
+4	0x8106  0x810C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2054  0x0800  0xA840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0038  
+4	0x0038  0x0018  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3000  0x0020  0x00E0  
+1	0x0080  0x0000  0x0001  
+2	0x0001  0x0001  0x0201  
+3	0x0201  0x0205  0x0205  
+4	0x0001  0x0815  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x01A0  0x4000  0x4003  
+1	0x0001  0x0000  0x0200  
+2	0x0200  0x0200  0x0204  
+3	0x0204  0x0A04  0x0A04  
+4	0x0200  0x2A10  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xF060  
+4	0xB060  0xF061  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A10  0x0004  0x2074  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0680  0x0001  0x000D  
+1	0x0004  0x0000  0x0800  
+2	0x0800  0x0800  0x0810  
+3	0x0810  0x2810  0x2810  
+4	0x0800  0xA840  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xE803  0x0010  0x07D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x8102  
+4	0x8000  0x840A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x043A  
+4	0x043A  0x0412  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8350  0x2000  0xA106  
+1	0x8102  0x0102  0x0502  
+2	0x0400  0x0008  0x0008  
+3	0x0000  0x0020  0x0020  
+4	0x0020  0x00A0  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0981  0x0205  0x0217  
+1	0x0014  0x0800  0x2800  
+2	0x2000  0x0000  0x0040  
+3	0x0040  0x0040  0x8040  
+4	0x8040  0x8140  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1815  0x0200  0x2A30  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0302  0x0402  0x040E  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0x4081  
+4	0x4081  0x4084  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2041  0x8140  0x8740  
+1	0x0500  0x0002  0x000A  
+2	0x0008  0x0000  0x1000  
+3	0x1000  0x1000  0x1020  
+4	0x1020  0x5020  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0817  0x0200  0x2E10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1408  0x1008  0x1028  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x0207  
+4	0x0203  0x0217  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x870E  
+4	0x830E  0x9324  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0800  0x0010  0x0010  
+1	0x0000  0x0040  0x0040  
+2	0x0040  0x0140  0x8140  
+3	0x8140  0x8440  0x8D42  
+4	0x0D42  0x1C40  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0xEC08  
+4	0xFC00  0xAC20  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x1C18  
+4	0x0C10  0x5C30  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xF840  0x0010  0x81F0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2074  0x0800  0xE840  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0018  
+4	0x0018  0x0038  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x40E0  0x4080  0xC081  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x3810  
+4	0x1810  0xB810  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1204  0x080C  0x083C  
+1	0x0030  0x2000  0x6000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x851E  
+4	0x841E  0x803C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0xF060  
+4	0xF060  0xB061  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x020D  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x160C  0x0804  0x183C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x40A0  0x4080  0x4081  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x2830  
+4	0x2830  0x8830  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x081C  0x086C  
+1	0x0070  0x2000  0xE000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x5420  0x0008  0x40A8  
+1	0x40A0  0x4080  0x4081  
+2	0x0001  0x0200  0x0200  
+3	0x0000  0x0800  0x0800  
+4	0x0800  0x2800  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x7060  
+4	0x7060  0x3061  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0050  0x2000  0xA000  
+1	0x8000  0x0000  0x0100  
+2	0x0100  0x0100  0x0102  
+3	0x0102  0x0502  0x0F02  
+4	0x0B00  0x1F08  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6841  0x0010  0x83D0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0800  0x8050  0x8050  
+1	0x8040  0x8102  0x8102  
+2	0x0002  0x0408  0x0408  
+3	0x0008  0x1028  0x1028  
+4	0x0028  0x4088  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x41A0  0x4080  0x4083  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x2810  
+4	0x2810  0x8810  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0030  
+1	0x0000  0x0040  0x0040  
+2	0x0040  0x0140  0x8140  
+3	0x8140  0x8440  0x8542  
+4	0x0542  0x1440  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2042  0x8140  0x8540  
+1	0x0500  0x0002  0x000A  
+2	0x0008  0x0000  0x1000  
+3	0x1000  0x1000  0x1060  
+4	0x1060  0x5060  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0609  0x0A04  0x3A0C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0481  0x0205  0x021D  
+1	0x0014  0x0800  0x2800  
+2	0x2000  0x0000  0x0040  
+3	0x0040  0x0040  0x8040  
+4	0x8040  0x8140  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6800  0x0010  0x00D0  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x830E  
+4	0x820C  0x8606  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4038  0x7000  0xB080  
+1	0xC080  0x0081  0x0381  
+2	0x0200  0x0004  0x0004  
+3	0x0000  0x0010  0x0010  
+4	0x0010  0x0050  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x3C08  
+4	0x2C08  0x7C08  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x020F  0x0A04  0x3604  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8300  
+4	0x8300  0x8302  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x871A  
+4	0x871A  0x9730  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0875  0x0200  0xEA10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x5460  0x0008  0xC0A8  
+1	0x40A0  0x4080  0x4081  
+2	0x0001  0x0200  0x0200  
+3	0x0000  0x0800  0x0800  
+4	0x0800  0x2800  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8300  
+3	0x8300  0x8302  0x8306  
+4	0x8000  0x8C0A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x8D0E  
+4	0x8D0E  0x9D24  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8141  0x8100  0x8302  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5060  
+4	0x5060  0x1061  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8102  0x0102  0x0502  
+1	0x0400  0x0008  0x0008  
+2	0x0000  0x0020  0x0020  
+3	0x0020  0x00A0  0x41A0  
+4	0x41A0  0x4320  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8001  0x0100  0x0700  
+1	0x0400  0x0000  0x0008  
+2	0x0008  0x0008  0x1008  
+3	0x1008  0x1028  0x1028  
+4	0x0008  0x40A8  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x853A  
+4	0x843A  0x8018  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0600  0x0004  0x001C  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA0C0  
+4	0x2080  0xA182  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1E0C  0x0804  0x183C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0619  0x0A04  0x3A0C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x9F02  
+4	0x9E00  0x9A0A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0xF028  
+4	0xF028  0xF088  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x020F  0x0604  0x1E04  
+1	0x1800  0x0010  0x0070  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4220  0x4081  0x4085  
+1	0x0005  0x0200  0x0A00  
+2	0x0800  0x0000  0x0010  
+3	0x0010  0x0010  0x2010  
+4	0x2010  0x2050  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0502  0x0402  0x040A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0xC083  
+4	0xC083  0xC086  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0342  0x8000  0x840E  
+1	0x040A  0x0408  0x1408  
+2	0x1000  0x0020  0x0020  
+3	0x0000  0x0080  0x0080  
+4	0x0080  0x0280  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E05  0x0204  0x0A1C  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8140  
+4	0x8140  0x8440  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA840  0x0010  0x8150  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x7000  
+4	0x7000  0x3000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A00  0x0004  0x0014  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xE0C0  
+4	0x6080  0xE182  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0835  0x0200  0x6A10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x2C18  
+4	0x3C10  0x6C30  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0040  0x0000  0x8000  
+1	0x8000  0x8000  0x8100  
+2	0x8100  0x8102  0x8102  
+3	0x8000  0x840A  0x8D1A  
+4	0x8D1A  0x9D30  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x40E8  0x1000  0xD081  
+1	0x4081  0x0081  0x0281  
+2	0x0200  0x0004  0x0004  
+3	0x0000  0x0010  0x0010  
+4	0x0010  0x0050  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2054  0x3800  0xD840  
+1	0x6040  0x8040  0x81C0  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0883  0x0205  0x0615  
+1	0x0014  0x0800  0x2800  
+2	0x2000  0x0000  0x0040  
+3	0x0040  0x0040  0x8040  
+4	0x8040  0x8140  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3068  0x1020  0xD060  
+1	0x4000  0x0080  0x0080  
+2	0x0000  0x0200  0x0200  
+3	0x0200  0x0A00  0x0A04  
+4	0x0A04  0x2204  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2042  0x8140  0x8540  
+1	0x0500  0x0002  0x000A  
+2	0x0008  0x0000  0x1000  
+3	0x1000  0x1000  0x3020  
+4	0x3020  0x7020  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0781  0x0201  0x020F  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6A10  0x0004  0x20D4  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8040  0x0000  0x8100  
+1	0x8100  0x8100  0x8102  
+2	0x8002  0x8400  0x8500  
+3	0x8100  0x9102  0x9106  
+4	0x9004  0xD40E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1600  0x0004  0x003C  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA040  
+4	0x2000  0xA102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2014  0x3800  0x5840  
+1	0x6040  0x8040  0x81C0  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x081D  0x0200  0x3A10  
+1	0x2810  0x2010  0x2050  
+2	0x0040  0x8000  0x8000  
+3	0x0000  0x0002  0x0002  
+4	0x0002  0x000A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0213  0x0A04  0x2E04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8300  
+4	0x8300  0x8302  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x021B  0x0A04  0x3E04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0340  0x8000  0x8006  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x1418  
+4	0x0410  0x5430  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x000C  0x0800  0x3800  
+1	0x2000  0x0000  0x0040  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x86C0  
+4	0x07C0  0x02C2  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0462  0x1408  0xD408  
+1	0x5000  0x0020  0x00A0  
+2	0x0080  0x0000  0x0001  
+3	0x0001  0x0001  0x0201  
+4	0x0201  0x0205  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8003  0x0100  0x0700  
+1	0x0400  0x0000  0x0008  
+2	0x0008  0x0008  0x1008  
+3	0x1008  0x1028  0x1028  
+4	0x0008  0x40A8  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xE041  0x8140  0x86C0  
+1	0x0500  0x0002  0x000A  
+2	0x0008  0x0000  0x1000  
+3	0x1000  0x1000  0x1020  
+4	0x1020  0x5020  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4084  0x0281  0x0A81  
+1	0x0A00  0x0004  0x0014  
+2	0x0010  0x0000  0x2000  
+3	0x2000  0x2000  0x2040  
+4	0x2040  0xA040  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E04  0x081C  0x086C  
+1	0x0070  0x2000  0xE000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8002  0x0100  0x0500  
+1	0x0400  0x0000  0x0008  
+2	0x0008  0x0008  0x1008  
+3	0x1008  0x1028  0x1038  
+4	0x0018  0x40B8  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0229  0x0A04  0x7A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0604  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x810E  
+4	0x810E  0x8104  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x5000  0x0020  0x00A0  
+1	0x0080  0x0000  0x0001  
+2	0x0001  0x0001  0x0201  
+3	0x0201  0x0205  0x0207  
+4	0x0003  0x0817  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A10  0x001C  0x202C  
+1	0x2030  0x2040  0xE040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x040A  0x0408  0x1408  
+1	0x1000  0x0020  0x0020  
+2	0x0000  0x0080  0x0080  
+3	0x0080  0x0280  0x0681  
+4	0x0681  0x0C81  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0613  0x0A04  0x2E0C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x604C  0x0800  0xB8C0  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8130  0x2000  0xE102  
+1	0x8102  0x0102  0x0502  
+2	0x0400  0x0008  0x0008  
+3	0x0000  0x0020  0x0020  
+4	0x0020  0x00A0  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2814  0x0810  0x2850  
+1	0x2040  0x0000  0x8040  
+2	0x8040  0x8040  0x8140  
+3	0x0140  0x0042  0x8042  
+4	0x8040  0x8148  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0140  0x8000  0x8002  
+1	0x0002  0x0000  0x0400  
+2	0x0400  0x0400  0x0408  
+3	0x0408  0x1408  0x3418  
+4	0x2410  0x7430  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A0C  0x0804  0x1814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8702  
+4	0x8702  0x8708  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6034  0x0800  0xE8C0  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x9841  0x0010  0x8370  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0068  0x1000  0xD000  
+1	0x4000  0x0000  0x0080  
+2	0x0080  0x0080  0x0081  
+3	0x0081  0x0281  0x0581  
+4	0x0780  0x0D84  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA840  0x0010  0x8150  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0xF000  
+4	0xF000  0xB000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A00  0x0004  0x0034  
+1	0x0010  0x0000  0x2000  
+2	0x2000  0x2000  0x2040  
+3	0x2040  0xA040  0xA0C0  
+4	0x2080  0xA182  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x026F  0x0A04  0xF604  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x000A  0x0400  0x1400  
+1	0x1000  0x0000  0x0020  
+2	0x0020  0x0020  0x4020  
+3	0x4020  0x40A0  0xC0E0  
+4	0x8060  0x82E1  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0C08  0x1008  0x1038  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x0205  
+4	0x0205  0x0211  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0742  0x8000  0x840E  
+1	0x040A  0x0408  0x1408  
+2	0x1000  0x0020  0x0020  
+3	0x0000  0x0080  0x0080  
+4	0x0080  0x0280  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0287  0x0201  0x0E05  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x201C  0x3800  0x5840  
+1	0x6040  0x8040  0x81C0  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E1C  0x0804  0x381C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8340  0x8100  0x8106  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5060  
+4	0x5060  0x1061  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0004  0x0800  0x0800  
+1	0x0000  0x2000  0x2000  
+2	0x2000  0xA000  0xA040  
+3	0xA040  0x2042  0xA146  
+4	0xA106  0x200E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A04  0x0804  0x0814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x811E  
+4	0x811E  0x8114  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0180  0x0001  0x0007  
+1	0x0004  0x0000  0x0800  
+2	0x0800  0x0800  0x0810  
+3	0x0810  0x2810  0x2810  
+4	0x0800  0xA840  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8151  0x2000  0xA302  
+1	0x8102  0x0102  0x0502  
+2	0x0400  0x0008  0x0008  
+3	0x0000  0x0020  0x0020  
+4	0x0020  0x00A0  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x811E  
+4	0x801C  0x8416  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1408  0x1008  0x1028  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x0207  
+4	0x0207  0x0213  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0004  0x0800  0x0800  
+1	0x0000  0x2000  0x2000  
+2	0x2000  0xA000  0xA040  
+3	0xA040  0x2042  0xE142  
+4	0x6102  0xE00A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1A04  0x0804  0x0834  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8702  
+4	0x8702  0x8708  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8140  0x8100  0x8102  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x50E0  
+4	0x50E0  0x10E1  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0542  0x8000  0x840A  
+1	0x040A  0x0408  0x1408  
+2	0x1000  0x0020  0x0020  
+3	0x0000  0x0080  0x0180  
+4	0x0180  0x0380  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0683  0x0201  0x060D  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA040  
+4	0xA040  0x2042  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8170  0x2000  0xE102  
+1	0x8102  0x0102  0x0502  
+2	0x0400  0x0008  0x0008  
+3	0x0000  0x0020  0x0020  
+4	0x0020  0x00A0  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1102  0x040A  0x042A  
+1	0x0028  0x1000  0x5000  
+2	0x4000  0x0000  0x0080  
+3	0x0080  0x0080  0x0081  
+4	0x0081  0x0281  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E04  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8306  
+4	0x8306  0x830C  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x40A0  0x4080  0x4081  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x3810  
+4	0x1810  0xB810  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0604  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8702  
+4	0x8702  0x8708  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x061F  0x0A04  0x360C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x205C  0x3800  0xD840  
+1	0x6040  0x8040  0x81C0  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E04  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8702  
+4	0x8702  0x8708  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x0C0E  
+4	0x0C06  0x0C2E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4181  0x0081  0x0283  
+1	0x0200  0x0004  0x0004  
+2	0x0000  0x0010  0x0010  
+3	0x0010  0x0050  0x2050  
+4	0x2050  0x2110  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E04  0x0804  0x081C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x810E  
+4	0x810E  0x8104  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1028  0x1020  0x5020  
+1	0x4000  0x0080  0x0080  
+2	0x0000  0x0200  0x0200  
+3	0x0200  0x0A00  0x1A04  
+4	0x1A04  0x3204  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x021F  0x0A04  0x3604  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8300  
+4	0x8300  0x8302  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x870E  
+4	0x8206  0x8624  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x8D0E  
+4	0x8C06  0x8824  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0681  0x0201  0x020D  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA0C0  
+4	0xA0C0  0x20C2  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2A30  0x0004  0x6054  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x7000  0x0020  0x00E0  
+1	0x0080  0x0000  0x0001  
+2	0x0001  0x0001  0x0201  
+3	0x0201  0x0205  0x0205  
+4	0x0001  0x0815  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0380  0x0001  0x0007  
+1	0x0004  0x0000  0x0800  
+2	0x0800  0x0800  0x0810  
+3	0x0810  0x2810  0x2810  
+4	0x0800  0xA840  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0211  0x0A04  0x2A04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8700  
+4	0x8700  0x8702  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0422  0x1408  0x5408  
+1	0x5000  0x0020  0x00A0  
+2	0x0080  0x0000  0x0001  
+3	0x0001  0x0001  0x0201  
+4	0x0201  0x0205  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2040  0x0000  0x8040  
+1	0x8040  0x8040  0x8140  
+2	0x0140  0x0042  0x8042  
+3	0x8040  0x8148  0x81C8  
+4	0x00C8  0x05EA  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2A04  0x081C  0x086C  
+1	0x0070  0x2000  0xE000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0280  0x0001  0x0005  
+1	0x0004  0x0000  0x0800  
+2	0x0800  0x0800  0x0810  
+3	0x0810  0x2810  0x3810  
+4	0x1800  0xB840  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0671  0x0A04  0xEA0C  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0840  0x0050  0x8050  
+1	0x8040  0x8100  0x8100  
+2	0x0000  0x0402  0x0402  
+3	0x0402  0x140A  0x140A  
+4	0x1002  0x402A  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x870E  
+4	0x8606  0x8224  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8302  0x0102  0x0506  
+1	0x0400  0x0008  0x0008  
+2	0x0000  0x0020  0x0020  
+3	0x0020  0x00A0  0x40A0  
+4	0x40A0  0x4220  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0605  0x0204  0x0A0C  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x81C0  
+4	0x80C0  0x85C0  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0030  0x2000  0x6000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x850E  
+4	0x8406  0x8024  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x060D  0x0204  0x1A0C  
+1	0x0800  0x0010  0x0010  
+2	0x0000  0x0040  0x0040  
+3	0x0040  0x0140  0x8140  
+4	0x8140  0x8440  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x10F8  0x5020  0xB021  
+1	0x4001  0x0080  0x0280  
+2	0x0200  0x0000  0x0004  
+3	0x0004  0x0004  0x0804  
+4	0x0804  0x0814  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0502  0x0402  0x040A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0x4083  
+4	0x4083  0x4086  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0502  0x0402  0x040A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0xC181  
+4	0xC181  0xC184  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2800  0x0010  0x0050  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8300  
+3	0x8300  0x8302  0x830E  
+4	0x8008  0x8C02  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xE840  0x0010  0x81D0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x3000  
+4	0x3000  0x7000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0010  0x2000  0x2000  
+1	0x0000  0x8000  0x8000  
+2	0x8000  0x8002  0x8102  
+3	0x8102  0x8108  0x8D1A  
+4	0x8C1A  0x8838  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8150  0x2000  0xA102  
+1	0x8102  0x0102  0x0502  
+2	0x0400  0x0008  0x0008  
+3	0x0000  0x0020  0x0060  
+4	0x0060  0x00E0  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x41E0  0x4080  0xC083  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x2810  
+4	0x2810  0x8810  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xE841  0x0010  0x83D0  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA041  0x8040  0x8340  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x1038  
+4	0x1018  0x10B8  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0273  0x0A04  0xEE04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0A7C  0x0804  0xF814  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8102  
+4	0x8102  0x8108  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0502  0x0402  0x040A  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0xC000  
+3	0xC000  0xC001  0xC181  
+4	0x4181  0x4186  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1088  0x5020  0x5021  
+1	0x4001  0x0080  0x0280  
+2	0x0200  0x0000  0x0004  
+3	0x0004  0x0004  0x0804  
+4	0x0804  0x0814  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xA040  0x8040  0x8140  
+1	0x0100  0x0002  0x0002  
+2	0x0000  0x0008  0x0008  
+3	0x0008  0x0028  0x3038  
+4	0x3018  0x30B8  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x3A10  0x0004  0x2074  
+1	0x2050  0x2040  0xA040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x4260  0x4081  0xC085  
+1	0x0005  0x0200  0x0A00  
+2	0x0800  0x0000  0x0010  
+3	0x0010  0x0010  0x2010  
+4	0x2010  0x2050  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0281  0x0201  0x0205  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA1C0  
+4	0xA1C0  0x21C2  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8102  0x0102  0x0502  
+1	0x0400  0x0008  0x0008  
+2	0x0000  0x0020  0x0020  
+3	0x0020  0x00A0  0xC0E0  
+4	0xC060  0xC2E0  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x605C  0x0800  0xB8C0  
+1	0xA040  0x8040  0x8140  
+2	0x0100  0x0002  0x0002  
+3	0x0000  0x0008  0x0008  
+4	0x0008  0x0028  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x060C  0x0804  0x181C  
+1	0x0010  0x2000  0x2000  
+2	0x0000  0x8000  0x8000  
+3	0x8000  0x8002  0x8302  
+4	0x8302  0x8308  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1800  0x0010  0x0070  
+1	0x0040  0x0000  0x8000  
+2	0x8000  0x8000  0x8100  
+3	0x8100  0x8102  0x830E  
+4	0x820C  0x8606  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0269  0x0A04  0xFA04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1810  0x2010  0x2070  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040E  
+4	0x0406  0x042E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0014  0x3800  0xD800  
+1	0xE000  0x0000  0x01C0  
+2	0x0040  0x0040  0x8040  
+3	0x8040  0x8140  0x8140  
+4	0x0040  0x0542  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8740  0x8100  0x810E  
+1	0x0002  0x0400  0x0400  
+2	0x0000  0x1000  0x1000  
+3	0x1000  0x5000  0x5020  
+4	0x5020  0x1021  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x00A0  0x4000  0x4001  
+1	0x0001  0x0000  0x0200  
+2	0x0200  0x0200  0x0204  
+3	0x0204  0x0A04  0x0E04  
+4	0x0600  0x2E10  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0283  0x0201  0x0605  
+1	0x0004  0x0800  0x0800  
+2	0x0000  0x2000  0x2000  
+3	0x2000  0xA000  0xA0C0  
+4	0xA0C0  0x20C2  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2050  0x2040  0xA040  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1C18  
+4	0x0C18  0x5C18  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xC0A0  0x4080  0x4181  
+1	0x0001  0x0200  0x0200  
+2	0x0000  0x0800  0x0800  
+3	0x0800  0x2800  0x2810  
+4	0x2810  0x8810  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6810  0x2010  0x20D0  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x040E  
+4	0x0406  0x042E  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2810  0x2010  0x2050  
+1	0x0040  0x8000  0x8000  
+2	0x0000  0x0002  0x0002  
+3	0x0002  0x000A  0x0C1A  
+4	0x0C1A  0x0C32  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1408  0x1008  0x1028  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x020D  
+4	0x020D  0x0219  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0200  0x0004  0x0004  
+1	0x0000  0x0010  0x0010  
+2	0x0010  0x0050  0x2050  
+3	0x2050  0x2110  0xA150  
+4	0x8150  0x0510  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0E10  0x001C  0x202C  
+1	0x2030  0x2040  0xE040  
+2	0x8000  0x0100  0x0100  
+3	0x0000  0x0400  0x0400  
+4	0x0400  0x1400  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0xB841  0x0010  0x8370  
+1	0x8140  0x8100  0x8102  
+2	0x0002  0x0400  0x0400  
+3	0x0000  0x1000  0x1000  
+4	0x1000  0x5000  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x6030  0x2040  0xE0C0  
+1	0x8000  0x0100  0x0100  
+2	0x0000  0x0400  0x0400  
+3	0x0400  0x1400  0x1408  
+4	0x1408  0x4408  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x00E0  0x4000  0xC001  
+1	0x0001  0x0000  0x0200  
+2	0x0200  0x0200  0x0204  
+3	0x0204  0x0A04  0x0A0C  
+4	0x0208  0x2A18  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0233  0x0A04  0x6E04  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2110  0xA040  0xA042  
+1	0x8002  0x0100  0x0500  
+2	0x0400  0x0000  0x0008  
+3	0x0008  0x0008  0x1018  
+4	0x1018  0x1038  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0406  0x0408  0x1C08  
+1	0x1000  0x0020  0x0020  
+2	0x0000  0x0080  0x0080  
+3	0x0080  0x0280  0x0281  
+4	0x0281  0x0881  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1418  0x1008  0x3028  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x0205  
+4	0x0205  0x0211  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x2040  0x0000  0x8040  
+1	0x8040  0x8040  0x8140  
+2	0x0140  0x0042  0x8042  
+3	0x8040  0x8148  0x82C8  
+4	0x03C8  0x06EA  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x0302  0x0402  0x040E  
+1	0x0008  0x1000  0x1000  
+2	0x0000  0x4000  0x4000  
+3	0x4000  0x4001  0xC081  
+4	0xC081  0xC084  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x022F  0x0A04  0x7604  
+1	0x2800  0x0010  0x0050  
+2	0x0040  0x0000  0x8000  
+3	0x8000  0x8000  0x8100  
+4	0x8100  0x8102  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x1C08  0x1008  0x1038  
+1	0x0020  0x4000  0x4000  
+2	0x0000  0x0001  0x0001  
+3	0x0001  0x0005  0x0205  
+4	0x0205  0x0211  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x040E  0x0408  0x1C08  
+1	0x1000  0x0020  0x0020  
+2	0x0000  0x0080  0x0080  
+3	0x0080  0x0280  0x0281  
+4	0x0281  0x0881  none    
+
+Weight: 9
+Characteristic for speckey - Rounds 4 - Wordsize 16- Weight 9
+Rounds	x       y       whex    
+-------------------------------
+0	0x8002  0x0100  0x0500  
+1	0x0400  0x0000  0x0008  
+2	0x0008  0x0008  0x1008  
+3	0x1008  0x1028  0x1068  
+4	0x0048  0x40E8  none    
+
+Weight: 9

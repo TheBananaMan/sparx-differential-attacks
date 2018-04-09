@@ -1,0 +1,58 @@
+$ python3 cryptosmt.py --inputfile examples/sparxround/sparx64_7round_top/sparx64_7rounds_xx_x0_search.yaml 
+Number of rounds: 9
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 9 Wordsize: 16
+---
+Weight: 12 Time: 0.0s
+Weight: 13 Time: 7.75s
+Weight: 14 Time: 19.53s
+Weight: 15 Time: 27.22s
+Weight: 16 Time: 39.41s
+Weight: 17 Time: 62.75s
+Weight: 18 Time: 90.45s
+Weight: 19 Time: 112.53s
+Weight: 20 Time: 126.45s
+Weight: 21 Time: 168.36s
+Weight: 22 Time: 264.55s
+Weight: 23 Time: 313.24s
+Weight: 24 Time: 357.97s
+Weight: 25 Time: 617.96s
+Weight: 26 Time: 731.55s
+Weight: 27 Time: 926.34s
+Weight: 28 Time: 1068.77s
+Weight: 29 Time: 1347.08s
+Weight: 30 Time: 1659.97s
+Weight: 31 Time: 2373.54s
+Weight: 32 Time: 2939.83s
+Weight: 33 Time: 3930.01s
+Weight: 34 Time: 5601.23s
+Weight: 35 Time: 9226.77s
+Weight: 36 Time: 13127.36s
+Weight: 37 Time: 16783.44s
+Weight: 38 Time: 21103.58s
+Weight: 39 Time: 35532.9s
+Weight: 40 Time: 59399.19s
+Weight: 41 Time: 108295.59s
+Weight: 42 Time: 264614.4s
+Weight: 43 Time: 542548.07s
+---
+Characteristic for sparxround - Rounds 9 - Wordsize 16 - Weight 43 - Time 611951.72s
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x540A  0x0120  0x0814  0x0810  none    none    -6  	-3  
+1	0x1488  0x1008  0x2000  0x0040  none    none    -4  	-1  
+2	0x0021  0x4001  0x0000  0x0100  0x0301  0x0304  -4  	-1  
+3	0x0201  0x0604  0x0601  0x0604  none    none    -5  	-6  
+4	0x1800  0x0010  0x1800  0x0010  none    none    -3  	-3  
+5	0x0040  0x0000  0x0040  0x0000  0x8000  0x8000  -0  	-0  
+6	0x0000  0x0000  0x8000  0x8000  none    none    -0  	-1  
+7	0x0000  0x0000  0x8100  0x8102  none    none    -0  	-2  
+8	0x0000  0x0000  0x8000  0x840A  0x0000  0x0000  -0  	-4  
+9	0x850A  0x9520  0x0000  0x0000  none    none    none    none    
+
+Weight: 43
+Rounds:
+Number of rounds: 10
+Starting search for characteristic with minimal weight
+sparxround - Rounds: 10 Wordsize: 16
+

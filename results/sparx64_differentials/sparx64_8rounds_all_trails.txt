@@ -1,0 +1,185 @@
+Found 0 characteristics with weight 27
+Found 0 characteristics with weight 28
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 29
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x0050  0x8402  none    none    -0      -4      
+1	0x0000  0x0000  0x2402  0x3408  none    none    -0      -7      
+2	0x0000  0x0000  0x50C0  0x80E0  0x0000  0x0000  -0      -5      
+3	0x0181  0x0203  0x0000  0x0000  none    none    -5      -0      
+4	0x000C  0x0800  0x0000  0x0000  none    none    -3      -0      
+5	0x2000  0x0000  0x0000  0x0000  0x0040  0x0040  -1      -0      
+6	0x0040  0x0040  0x0040  0x0040  none    none    -2      -2      
+7	0x8040  0x8140  0x8040  0x8140  none    none    -3      -3      
+8	0x0040  0x0542  0x0040  0x0542  none    none    none    none    
+
+Weight: 29
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 29
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x540A  0x0120  none    none    -0      -6      
+1	0x0000  0x0000  0x1488  0x1008  none    none    -0      -4      
+2	0x0000  0x0000  0x0021  0x4001  0x0000  0x0000  -0      -4      
+3	0x0601  0x0604  0x0000  0x0000  none    none    -6      -0      
+4	0x1800  0x0010  0x0000  0x0000  none    none    -3      -0      
+5	0x0040  0x0000  0x0000  0x0000  0x8000  0x8000  -1      -0      
+6	0x8000  0x8000  0x8000  0x8000  none    none    -2      -2      
+7	0x8100  0x8102  0x8100  0x8102  none    none    -3      -3      
+8	0x8000  0x840A  0x8000  0x840A  none    none    none    none    
+
+Weight: 29
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 29
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0xD40A  0x0120  none    none    -0      -6      
+1	0x0000  0x0000  0x1488  0x1008  none    none    -0      -4      
+2	0x0000  0x0000  0x0021  0x4001  0x0000  0x0000  -0      -4      
+3	0x0601  0x0604  0x0000  0x0000  none    none    -6      -0      
+4	0x1800  0x0010  0x0000  0x0000  none    none    -3      -0      
+5	0x0040  0x0000  0x0000  0x0000  0x8000  0x8000  -1      -0      
+6	0x8000  0x8000  0x8000  0x8000  none    none    -2      -2      
+7	0x8100  0x8102  0x8100  0x8102  none    none    -3      -3      
+8	0x8000  0x840A  0x8000  0x840A  none    none    none    none    
+
+Weight: 29
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 29
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0xA000  0x0508  none    none    -0      -4      
+1	0x0000  0x0000  0x0448  0x1068  none    none    -0      -6      
+2	0x0000  0x0000  0x80A0  0xC100  0x0000  0x0000  -0      -7      
+3	0x0207  0x0604  0x0000  0x0000  none    none    -5      -0      
+4	0x1800  0x0010  0x0000  0x0000  none    none    -3      -0      
+5	0x0040  0x0000  0x0000  0x0000  0x8000  0x8000  -1      -0      
+6	0x8000  0x8000  0x8000  0x8000  none    none    -2      -2      
+7	0x8100  0x8102  0x8100  0x8102  none    none    -3      -3      
+8	0x8000  0x840A  0x8000  0x840A  none    none    none    none    
+
+Weight: 29
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 29
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x052A  0x9000  none    none    -0      -6      
+1	0x0000  0x0000  0x440A  0x0408  none    none    -0      -4      
+2	0x0000  0x0000  0x1080  0x00A0  0x0000  0x0000  -0      -4      
+3	0x0083  0x0203  0x0000  0x0000  none    none    -6      -0      
+4	0x000C  0x0800  0x0000  0x0000  none    none    -3      -0      
+5	0x2000  0x0000  0x0000  0x0000  0x0040  0x0040  -1      -0      
+6	0x0040  0x0040  0x0040  0x0040  none    none    -2      -2      
+7	0x8040  0x8140  0x8040  0x8140  none    none    -3      -3      
+8	0x0040  0x0542  0x0040  0x0542  none    none    none    none    
+
+Weight: 29
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 29
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x056A  0x9000  none    none    -0      -6      
+1	0x0000  0x0000  0x440A  0x0408  none    none    -0      -4      
+2	0x0000  0x0000  0x1080  0x00A0  0x0000  0x0000  -0      -4      
+3	0x0083  0x0203  0x0000  0x0000  none    none    -6      -0      
+4	0x000C  0x0800  0x0000  0x0000  none    none    -3      -0      
+5	0x2000  0x0000  0x0000  0x0000  0x0040  0x0040  -1      -0      
+6	0x0040  0x0040  0x0040  0x0040  none    none    -2      -2      
+7	0x8040  0x8140  0x8040  0x8140  none    none    -3      -3      
+8	0x0040  0x0542  0x0040  0x0542  none    none    none    none    
+
+Weight: 29
+Found 6 characteristics with weight 29
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 30
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x2800  0x0010  0x2800  0x0010  none    none    -2      -2      
+1	0x0040  0x0000  0x0040  0x0000  none    none    -1      -1      
+2	0x8000  0x8000  0x8000  0x8000  0x8300  0x8302  -2      -3      
+3	0x0000  0x0000  0x8100  0x8102  none    none    -0      -4      
+4	0x0000  0x0000  0x8004  0x840E  none    none    -0      -9      
+5	0x0000  0x0000  0x8532  0x9508  0x0000  0x0000  -0      -8      
+6	0x5002  0x0420  0x0000  0x0000  none    none    -3      -0      
+7	0x0080  0x1000  0x0000  0x0000  none    none    -2      -0      
+8	0x1001  0x5001  0x0000  0x0000  none    none    none    none    
+
+Weight: 30
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 30
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x032A  0x9000  none    none    -0      -7      
+1	0x0000  0x0000  0x440A  0x0408  none    none    -0      -4      
+2	0x0000  0x0000  0x1080  0x00A0  0x0000  0x0000  -0      -4      
+3	0x0083  0x0203  0x0000  0x0000  none    none    -6      -0      
+4	0x000C  0x0800  0x0000  0x0000  none    none    -3      -0      
+5	0x2000  0x0000  0x0000  0x0000  0x0040  0x0040  -1      -0      
+6	0x0040  0x0040  0x0040  0x0040  none    none    -2      -2      
+7	0x8040  0x8140  0x8040  0x8140  none    none    -3      -3      
+8	0x0040  0x0542  0x0040  0x0542  none    none    none    none    
+
+Weight: 30
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 30
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0xFE03  0x07FC  none    none    -0      -2      
+1	0x0000  0x0000  0x0FF8  0x1008  none    none    -0      -10     
+2	0x0000  0x0000  0x0021  0x4001  0x0000  0x0000  -0      -4      
+3	0x0601  0x0604  0x0000  0x0000  none    none    -6      -0      
+4	0x1800  0x0010  0x0000  0x0000  none    none    -3      -0      
+5	0x0040  0x0000  0x0000  0x0000  0x8000  0x8000  -1      -0      
+6	0x8000  0x8000  0x8000  0x8000  none    none    -2      -2      
+7	0x8100  0x8102  0x8100  0x8102  none    none    -3      -3      
+8	0x8000  0x840A  0x8000  0x840A  none    none    none    none    
+
+Weight: 30
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 30
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x0000  0xA402  none    none    -0      -4      
+1	0x0000  0x0000  0xA402  0x3408  none    none    -0      -8      
+2	0x0000  0x0000  0x50C0  0x80E0  0x0000  0x0000  -0      -5      
+3	0x0181  0x0203  0x0000  0x0000  none    none    -5      -0      
+4	0x000C  0x0800  0x0000  0x0000  none    none    -3      -0      
+5	0x2000  0x0000  0x0000  0x0000  0x0040  0x0040  -1      -0      
+6	0x0040  0x0040  0x0040  0x0040  none    none    -2      -2      
+7	0x8040  0x8140  0x8040  0x8140  none    none    -3      -3      
+8	0x0040  0x0542  0x0040  0x0542  none    none    none    none    
+
+Weight: 30
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 30
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x2800  0x0010  0x2800  0x0010  none    none    -2      -2      
+1	0x0040  0x0000  0x0040  0x0000  none    none    -1      -1      
+2	0x8000  0x8000  0x8000  0x8000  0x8100  0x8102  -3      -2      
+3	0x0000  0x0000  0x8300  0x8302  none    none    -0      -6      
+4	0x0000  0x0000  0x8008  0x8C02  none    none    -0      -6      
+5	0x0000  0x0000  0x8502  0xB508  0x0000  0x0000  -0      -8      
+6	0xD002  0x0420  0x0000  0x0000  none    none    -4      -0      
+7	0x0080  0x1000  0x0000  0x0000  none    none    -2      -0      
+8	0x1001  0x5001  0x0000  0x0000  none    none    none    none    
+
+Weight: 30
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 30
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0x0552  0x8000  none    none    -0      -5      
+1	0x0000  0x0000  0x240A  0x2408  none    none    -0      -6      
+2	0x0000  0x0000  0x10C0  0x80E0  0x0000  0x0000  -0      -6      
+3	0x0181  0x0203  0x0000  0x0000  none    none    -5      -0      
+4	0x000C  0x0800  0x0000  0x0000  none    none    -3      -0      
+5	0x2000  0x0000  0x0000  0x0000  0x0040  0x0040  -1      -0      
+6	0x0040  0x0040  0x0040  0x0040  none    none    -2      -2      
+7	0x8040  0x8140  0x8040  0x8140  none    none    -3      -3      
+8	0x0040  0x0542  0x0040  0x0542  none    none    none    none    
+
+Weight: 30
+Characteristic for sparxround - Rounds 8 - Wordsize 16- Weight 30
+Rounds	X0      X1      Y0      Y1      X0L     X1L     wl      wr      
+-----------------------------------------------------------------------
+0	0x0000  0x0000  0xF403  0x07E0  none    none    -0      -3      
+1	0x0000  0x0000  0x0FC8  0x1048  none    none    -0      -9      
+2	0x0000  0x0000  0x8021  0xC101  0x0000  0x0000  -0      -6      
+3	0x0203  0x0604  0x0000  0x0000  none    none    -5      -0      
+4	0x1800  0x0010  0x0000  0x0000  none    none    -3      -0      
+5	0x0040  0x0000  0x0000  0x0000  0x8000  0x8000  -1      -0      
+6	0x8000  0x8000  0x8000  0x8000  none    none    -2      -2      
+7	0x8100  0x8102  0x8100  0x8102  none    none    -3      -3      
+8	0x8000  0x840A  0x8000  0x840A  none    none    none    none    
+
+Weight: 30
