@@ -1,0 +1,12 @@
+bin
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+do-scan-build.sh
+MakeFile_
