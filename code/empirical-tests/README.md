@@ -64,8 +64,8 @@ bin/sparx-64-tests
 
 Needs 
 
- * [CPPLint] cpplint (https://pypi.python.org/pypi/cpplint)
- * [PyLint]  pylint (https://www.pylint.org/) 
+ * `cpplint` (https://pypi.python.org/pypi/cpplint)
+ * `pylint` (https://www.pylint.org/) 
 
 You can use the script 'lint.sh' to lint the source code according to Google's
 C++ style guide. By default, it generates in `bin/linter` a report. You can
@@ -92,7 +92,7 @@ See license.txt for details.
 
 * Uses the xorshift1024* implementation by Sebastiano Vigna (vigna@acm.org) 
   since it is faster than drawing from `/dev/urandom`.
-  
+
 * Uses the slim argument parser by Hilton Bristow.
   https://github.com/hbristow/argparse
 
