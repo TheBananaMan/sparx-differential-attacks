@@ -10,9 +10,19 @@ Contains:
 
  * `sparx-64-tests` 
    Tests for the implementation of SPARX-64.
+
  * `sparx-64-boomerang-test` 
    Evaluates probabilities of differentials and boomerangs for Sparx-64/128.
 
+ * `sparx-64-multi-step-backwards-test`
+   Computes differences in decryption direction from a given start difference.
+
+ * `sparx-64-multi-step-forwards-test`
+   Computes differences in encryption direction from a given start difference.
+
+ * `sparx-64-single-step-test`
+   Computes random pairs from a given start difference in encryption direction
+   to find the number of pairs that collide in one branch after one step.
 
 ### Building:
 
@@ -24,7 +34,8 @@ Contains:
 
 ### Installation
 
-If installed, you should be able to build with
+If `cmake` and `libpthread` are installed on your system, you should be able to
+build with
 
 ```
 cmake .
