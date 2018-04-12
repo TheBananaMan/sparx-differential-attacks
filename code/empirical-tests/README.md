@@ -6,13 +6,10 @@ boomerangs for Sparx-64/128.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your
-local machine for development and testing purposes. See deployment for notes on
-how to deploy the project on a live system.
-
 Contains:
 
- * `sparx-64-tests` Tests for the implementation of SPARX-64.
+ * `sparx-64-tests` 
+   Tests for the implementation of SPARX-64.
  * `sparx-64-boomerang-test` 
    Evaluates probabilities of differentials and boomerangs for Sparx-64/128.
 
@@ -67,7 +64,7 @@ Needs
  * `cpplint` (https://pypi.python.org/pypi/cpplint)
  * `pylint` (https://www.pylint.org/) 
 
-You can use the script 'lint.sh' to lint the source code according to Google's
+You can use the script `lint.sh` to lint the source code according to Google's
 C++ style guide. By default, it generates in `bin/linter` a report. You can
 configure the style options in the file `CPPLINT.cfg`.
 
@@ -76,7 +73,7 @@ configure the style options in the file `CPPLINT.cfg`.
 
 Needs 
 
- * [Valgrind] Valgrind
+ * `Valgrind`
 
 You can use the script `profile.sh` with an executable and output options. It
 will call valgrind and create a call-graph output for later analysis, e.g.,
