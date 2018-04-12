@@ -4,12 +4,10 @@ Contains tests to evaluate empirical probabilities of differentials and
 boomerangs for Sparx-64/128.
 
 
-## Getting Started
-
-Contains:
+## Contents
 
  * `sparx-64-tests` 
-   Tests for the implementation of SPARX-64.
+   Tests for the implementation of Sparx-64.
 
  * `sparx-64-boomerang-test` 
    Evaluates probabilities of differentials and boomerangs for Sparx-64/128.
@@ -23,6 +21,7 @@ Contains:
  * `sparx-64-single-step-test`
    Computes random pairs from a given start difference in encryption direction
    to find the number of pairs that collide in one branch after one step.
+
 
 ### Building:
 
@@ -58,9 +57,9 @@ bin/sparx-64-boomerang-test --num_keys 10 --alpha 0000000080008000 --delta 80008
 You can clean the temporary files with 'clean.sh'.
 
 
-## Running the tests
+## Testing
 
-The project contains a few tests for the implementation of SPARX-64. Simply
+The project contains a few tests for the implementation of Sparx-64. Simply
 compile 'make sparx-64-tests' and run
 
 
